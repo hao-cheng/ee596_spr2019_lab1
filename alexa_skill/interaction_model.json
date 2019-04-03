@@ -1,0 +1,5488 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "invocationName": "lab one", 
+      "intents": [
+        {
+          "slots": [
+            {
+              "type": "TEXT", 
+              "name": "Text"
+            }
+          ], 
+          "name": "ConverseIntent", 
+          "samples": [
+            "{Text}"
+          ]
+        }
+      ], 
+      "types": [
+        {
+          "values": [
+            {
+              "name": {
+                "value": "and your defense attorney presents their evidence"
+              }
+            }, 
+            {
+              "name": {
+                "value": "even or"
+              }
+            }, 
+            {
+              "name": {
+                "value": "i mean when you have a man that 's signed a a a statement saying he 's guilty"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and and when you stop and look at it i mean the judges th- they 're all former lawyers"
+              }
+            }, 
+            {
+              "name": {
+                "value": "you 'd hate to be one of those"
+              }
+            }, 
+            {
+              "name": {
+                "value": "they say that the green glass now that there 's a big glut"
+              }
+            }, 
+            {
+              "name": {
+                "value": "actually uh they just recently started a policy of testing drugs which was kind of interesting"
+              }
+            }, 
+            {
+              "name": {
+                "value": "she lives"
+              }
+            }, 
+            {
+              "name": {
+                "value": "i 've got a sixty-five mustang"
+              }
+            }, 
+            {
+              "name": {
+                "value": "think about that"
+              }
+            }, 
+            {
+              "name": {
+                "value": "i have a daughter who 's ten"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and i"
+              }
+            }, 
+            {
+              "name": {
+                "value": "well when you have kids will you work"
+              }
+            }, 
+            {
+              "name": {
+                "value": "it 's there 's not a choice it 's"
+              }
+            }, 
+            {
+              "name": {
+                "value": "they wonder or or uh confused or have some mental problem"
+              }
+            }, 
+            {
+              "name": {
+                "value": "i 'm not"
+              }
+            }, 
+            {
+              "name": {
+                "value": "but they wanted to be independent as well"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and they were going to put her into a a nursing home"
+              }
+            }, 
+            {
+              "name": {
+                "value": "my grandmother actually was in a a nursing home that uh"
+              }
+            }, 
+            {
+              "name": {
+                "value": "uh i do n't know"
+              }
+            }, 
+            {
+              "name": {
+                "value": "you ca n't always get in when you want"
+              }
+            }, 
+            {
+              "name": {
+                "value": "somebody who would know what to do in the event of an emergency"
+              }
+            }, 
+            {
+              "name": {
+                "value": "or the phone rang or"
+              }
+            }, 
+            {
+              "name": {
+                "value": "so it 's it 's been a ecologically sound policy and you know as as far as recycling your bottles in terms of trash and so forth"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and she she was a personnel secretary"
+              }
+            }, 
+            {
+              "name": {
+                "value": "well it 's actually uh"
+              }
+            }, 
+            {
+              "name": {
+                "value": "but we do n't"
+              }
+            }, 
+            {
+              "name": {
+                "value": "but more importantly it 's recycling reusable materials back into uh manufacturing"
+              }
+            }, 
+            {
+              "name": {
+                "value": "do you know anyone that uh is is in a nursing home or has ever been in one"
+              }
+            }, 
+            {
+              "name": {
+                "value": "i think this particular case has been like ten or fifteen years"
+              }
+            }, 
+            {
+              "name": {
+                "value": "in this area"
+              }
+            }, 
+            {
+              "name": {
+                "value": "the different"
+              }
+            }, 
+            {
+              "name": {
+                "value": "i think it usually does"
+              }
+            }, 
+            {
+              "name": {
+                "value": "it 's probably like thirty forty thousand dollars a day you know worth of all the free for all"
+              }
+            }, 
+            {
+              "name": {
+                "value": "is that it"
+              }
+            }, 
+            {
+              "name": {
+                "value": "uh i bought some cokes the other day in the br- the little bottles"
+              }
+            }, 
+            {
+              "name": {
+                "value": "it 's the bell corps which is uh"
+              }
+            }, 
+            {
+              "name": {
+                "value": "it 's just a shame that 's the way it has to be"
+              }
+            }, 
+            {
+              "name": {
+                "value": "i work for a defense contractor"
+              }
+            }, 
+            {
+              "name": {
+                "value": "oh stockton"
+              }
+            }, 
+            {
+              "name": {
+                "value": "our policies and procedures manual uh the furthest it goes about drugs is in the kind of the miscellaneous section or"
+              }
+            }, 
+            {
+              "name": {
+                "value": "we live in plano"
+              }
+            }, 
+            {
+              "name": {
+                "value": "you know it 's someone who had uh"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and he was exonerated"
+              }
+            }, 
+            {
+              "name": {
+                "value": "so she follows that stuff pretty closely"
+              }
+            }, 
+            {
+              "name": {
+                "value": "cause i do al- almost all my own maintenance and uh"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and i find that for a normal you know everyday things it 's really very easy to work on"
+              }
+            }, 
+            {
+              "name": {
+                "value": "so but onto the thing uh i was never aware that juries had any say on recommending sentencing"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and uh i 've considered using it once myself"
+              }
+            }, 
+            {
+              "name": {
+                "value": "so have you heard about saturns"
+              }
+            }, 
+            {
+              "name": {
+                "value": "i 've seen some of them like that too"
+              }
+            }, 
+            {
+              "name": {
+                "value": "i got called"
+              }
+            }, 
+            {
+              "name": {
+                "value": "they can trace us down"
+              }
+            }, 
+            {
+              "name": {
+                "value": "that has been going on"
+              }
+            }, 
+            {
+              "name": {
+                "value": "my card and uh desires tend to be pretty picky"
+              }
+            }, 
+            {
+              "name": {
+                "value": "but uh it will be interesting to see mumblex"
+              }
+            }, 
+            {
+              "name": {
+                "value": "when you need it you need it"
+              }
+            }, 
+            {
+              "name": {
+                "value": "we could talk about some of the long range goals"
+              }
+            }, 
+            {
+              "name": {
+                "value": "well here they and"
+              }
+            }, 
+            {
+              "name": {
+                "value": "that may very well be"
+              }
+            }, 
+            {
+              "name": {
+                "value": "which again i think is the way it is now that all the all verdicts"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and so uh you know i 'm kind of spoiled"
+              }
+            }, 
+            {
+              "name": {
+                "value": "i know that like the the the one plan that everyone seems to be in in my place is uh you know you uh think you call it plan d"
+              }
+            }, 
+            {
+              "name": {
+                "value": "well the saturns you can get air bags in them"
+              }
+            }, 
+            {
+              "name": {
+                "value": "often there 's more incriminating evidence"
+              }
+            }, 
+            {
+              "name": {
+                "value": "you know all kinds of bottles they they they really charge people to i guess when you purchase them and and then when you turn them back in"
+              }
+            }, 
+            {
+              "name": {
+                "value": "i mean the uh documentary the thin blue line pretty much demonstrated that"
+              }
+            }, 
+            {
+              "name": {
+                "value": "i was like god how much were those bottles you know"
+              }
+            }, 
+            {
+              "name": {
+                "value": "working to maintain a standard of living"
+              }
+            }, 
+            {
+              "name": {
+                "value": "really able to"
+              }
+            }, 
+            {
+              "name": {
+                "value": "are under a a medical monitoring program"
+              }
+            }, 
+            {
+              "name": {
+                "value": "some states uh say that you have to be a certified teacher in order to do that"
+              }
+            }, 
+            {
+              "name": {
+                "value": "do you think it 's an economic c- necessity"
+              }
+            }, 
+            {
+              "name": {
+                "value": "well i was called"
+              }
+            }, 
+            {
+              "name": {
+                "value": "they 're they should be able to make it as a continue of employment in some sense"
+              }
+            }, 
+            {
+              "name": {
+                "value": "well i 've got an eighty-three saab"
+              }
+            }, 
+            {
+              "name": {
+                "value": "at least in capital cases i 'd think they 'd have to be"
+              }
+            }, 
+            {
+              "name": {
+                "value": "i 'm going to have to leave those details like what would you do about"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and uh matter of fact they give you discounts if you use uh china wear rather than uh styrofoam stuff"
+              }
+            }, 
+            {
+              "name": {
+                "value": "that 's excellent because"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and then there 's also some that are set up for specialties"
+              }
+            }, 
+            {
+              "name": {
+                "value": "exactly"
+              }
+            }, 
+            {
+              "name": {
+                "value": "but and it 's been pretty successful"
+              }
+            }, 
+            {
+              "name": {
+                "value": "well out in this area they really do n't have anything"
+              }
+            }, 
+            {
+              "name": {
+                "value": "they know what 's good and what is n't"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and they pick it up"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and now uh it 's pretty much an economic necessity of for most in most places for both parents to work"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and but the community i 'm in is not a real large one"
+              }
+            }, 
+            {
+              "name": {
+                "value": "but they no no longer"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and they have a they do n't have any kind of pension plan where they contribute anything"
+              }
+            }, 
+            {
+              "name": {
+                "value": "well uh does the company you work for test for drugs"
+              }
+            }, 
+            {
+              "name": {
+                "value": "i think it 's very it 's a stylish car both inside and out"
+              }
+            }, 
+            {
+              "name": {
+                "value": "so so there 's different types of nursing homes i think"
+              }
+            }, 
+            {
+              "name": {
+                "value": "but i"
+              }
+            }, 
+            {
+              "name": {
+                "value": "travel and that kind of thing"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and i guess it 's not exactly fair for the younger family members to have to put it in their savings"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and uh it 's a real shame from what we had before uh because we 're"
+              }
+            }, 
+            {
+              "name": {
+                "value": "you know i 'm not sure there 's a number"
+              }
+            }, 
+            {
+              "name": {
+                "value": "ooh that 's great"
+              }
+            }, 
+            {
+              "name": {
+                "value": "i went to college"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and they took it you know"
+              }
+            }, 
+            {
+              "name": {
+                "value": "we do oil well services"
+              }
+            }, 
+            {
+              "name": {
+                "value": "my uh cousin is a f b i agent down in miami"
+              }
+            }, 
+            {
+              "name": {
+                "value": "they 're real difficult to catch"
+              }
+            }, 
+            {
+              "name": {
+                "value": "but wh what kind of things are you looking for"
+              }
+            }, 
+            {
+              "name": {
+                "value": "you know i was like god almighty"
+              }
+            }, 
+            {
+              "name": {
+                "value": "they 'd be able to say i 'm sorry"
+              }
+            }, 
+            {
+              "name": {
+                "value": "i have some friends of mine who use quicken"
+              }
+            }, 
+            {
+              "name": {
+                "value": "so i know what they 've said"
+              }
+            }, 
+            {
+              "name": {
+                "value": "but it 's big enough"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and you need people who are trained for that type"
+              }
+            }, 
+            {
+              "name": {
+                "value": "i just i think that things were a bit were have been busy all along"
+              }
+            }, 
+            {
+              "name": {
+                "value": "you think that the individual has as much time as they did let 's say ten twenty years ago"
+              }
+            }, 
+            {
+              "name": {
+                "value": "but i think its relevance is pretty limited"
+              }
+            }, 
+            {
+              "name": {
+                "value": "maybe it 's a blown fuse"
+              }
+            }, 
+            {
+              "name": {
+                "value": "or they just watch them and let them play and things like that"
+              }
+            }, 
+            {
+              "name": {
+                "value": "i 've heard a lot of people like them"
+              }
+            }, 
+            {
+              "name": {
+                "value": "um well i really ca n't say for certain truth be known"
+              }
+            }, 
+            {
+              "name": {
+                "value": "i used to have a mumblex chevy"
+              }
+            }, 
+            {
+              "name": {
+                "value": "spread real easy and things"
+              }
+            }, 
+            {
+              "name": {
+                "value": "you know kind of enforce the savings"
+              }
+            }, 
+            {
+              "name": {
+                "value": "i have no idea how long this is supposed to last or anything"
+              }
+            }, 
+            {
+              "name": {
+                "value": "uh basically they 're just uh having various recycling uh bins uh located for uh trash pickup"
+              }
+            }, 
+            {
+              "name": {
+                "value": "do they have a death penalty in california"
+              }
+            }, 
+            {
+              "name": {
+                "value": "you know that 's it it 's it 's amazing"
+              }
+            }, 
+            {
+              "name": {
+                "value": "so those two things"
+              }
+            }, 
+            {
+              "name": {
+                "value": "in criminal cases i 'd like to see the unani- unanimity remain"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and you get up there"
+              }
+            }, 
+            {
+              "name": {
+                "value": "what do you mean"
+              }
+            }, 
+            {
+              "name": {
+                "value": "i 'm telling you go one way or the other"
+              }
+            }, 
+            {
+              "name": {
+                "value": "i do n't know"
+              }
+            }, 
+            {
+              "name": {
+                "value": "what do you call it"
+              }
+            }, 
+            {
+              "name": {
+                "value": "but i had forgotten about that"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and i think that may i that may be an exception as well"
+              }
+            }, 
+            {
+              "name": {
+                "value": "i just know that uh my in-laws up in up in oklahoma that 's how they do you know they pick it up"
+              }
+            }, 
+            {
+              "name": {
+                "value": "find some extra payroll deductions is probably the only way we will be able to uh do it"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and they started off recycling by uh putting the"
+              }
+            }, 
+            {
+              "name": {
+                "value": "is it like uh"
+              }
+            }, 
+            {
+              "name": {
+                "value": "oh what 's that called"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and also they have a lot of uh activities going on for the ones"
+              }
+            }, 
+            {
+              "name": {
+                "value": "they were n't hopelessly deadlocked yet"
+              }
+            }, 
+            {
+              "name": {
+                "value": "a sick place"
+              }
+            }, 
+            {
+              "name": {
+                "value": "do you have kids"
+              }
+            }, 
+            {
+              "name": {
+                "value": "that 's"
+              }
+            }, 
+            {
+              "name": {
+                "value": "or do you get money for it"
+              }
+            }, 
+            {
+              "name": {
+                "value": "with a three fifty in it"
+              }
+            }, 
+            {
+              "name": {
+                "value": "we all do it"
+              }
+            }, 
+            {
+              "name": {
+                "value": "i think that the decision that needs to be made though on nursing home has to be a joint one between the uh elderly"
+              }
+            }, 
+            {
+              "name": {
+                "value": "what is your uh community uh currently doing with regard to recycling"
+              }
+            }, 
+            {
+              "name": {
+                "value": "because it 's not economically feasible even to"
+              }
+            }, 
+            {
+              "name": {
+                "value": "mean the the the management they get rid of"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and they had some guy that was uh defending himself"
+              }
+            }, 
+            {
+              "name": {
+                "value": "a good a good southern solution"
+              }
+            }, 
+            {
+              "name": {
+                "value": "now i think they 've come up with some way of uh pulling the glue out"
+              }
+            }, 
+            {
+              "name": {
+                "value": "uh whether they they decide whether or not they uh the accused or whatever would get the uh get the death penalty"
+              }
+            }, 
+            {
+              "name": {
+                "value": "it 's amazing"
+              }
+            }, 
+            {
+              "name": {
+                "value": "so uh"
+              }
+            }, 
+            {
+              "name": {
+                "value": "yo- so you think it 's"
+              }
+            }, 
+            {
+              "name": {
+                "value": "it would be interesting to see how the data base"
+              }
+            }, 
+            {
+              "name": {
+                "value": "it 's"
+              }
+            }, 
+            {
+              "name": {
+                "value": "she uh got real lucky though"
+              }
+            }, 
+            {
+              "name": {
+                "value": "there was some sort of full-time care place that was also associated with it"
+              }
+            }, 
+            {
+              "name": {
+                "value": "i 'm kind of"
+              }
+            }, 
+            {
+              "name": {
+                "value": "i i think that 's i think that 's the way it is"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and uh yo-"
+              }
+            }, 
+            {
+              "name": {
+                "value": "all that stuff huh"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and that 's kind of that 's that 's probably one thing i 'd look at"
+              }
+            }, 
+            {
+              "name": {
+                "value": "so there are a lot of people who babysit in their homes that you know"
+              }
+            }, 
+            {
+              "name": {
+                "value": "ooh"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and and they 're very proactive"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and now it 's uh now it 's reimbursement depending on the grade you get in class"
+              }
+            }, 
+            {
+              "name": {
+                "value": "they need health care"
+              }
+            }, 
+            {
+              "name": {
+                "value": "i always kind of think it would be neat to be able to watch them and be there for them all the time"
+              }
+            }, 
+            {
+              "name": {
+                "value": "but uh"
+              }
+            }, 
+            {
+              "name": {
+                "value": "you might try uh"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and occasionally we will get behind like you say"
+              }
+            }, 
+            {
+              "name": {
+                "value": "bye-bye"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and she had to get tested"
+              }
+            }, 
+            {
+              "name": {
+                "value": "but uh i think drug testing"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and then uh as she became less able to take care of herself then she moved into this other part that was able to uh provide full-time care"
+              }
+            }, 
+            {
+              "name": {
+                "value": "my understanding of the law which is n't very good"
+              }
+            }, 
+            {
+              "name": {
+                "value": "in a court room while they went through the selection process"
+              }
+            }, 
+            {
+              "name": {
+                "value": "it 's not bad"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and i 've always been very impressed with the taurus"
+              }
+            }, 
+            {
+              "name": {
+                "value": "a you know a special a dishwasher uh a refrigerator and some of those items um for the for the uh"
+              }
+            }, 
+            {
+              "name": {
+                "value": "you know judges are people like everybody else"
+              }
+            }, 
+            {
+              "name": {
+                "value": "something inexpensive"
+              }
+            }, 
+            {
+              "name": {
+                "value": "they really are"
+              }
+            }, 
+            {
+              "name": {
+                "value": "sh-"
+              }
+            }, 
+            {
+              "name": {
+                "value": "thank you"
+              }
+            }, 
+            {
+              "name": {
+                "value": "to get over a"
+              }
+            }, 
+            {
+              "name": {
+                "value": "it 's like throwing a nickel away"
+              }
+            }, 
+            {
+              "name": {
+                "value": "you go in there with the doctor"
+              }
+            }, 
+            {
+              "name": {
+                "value": "it 's that the younger they are they tend to be more conservative for some statistical oddball reason"
+              }
+            }, 
+            {
+              "name": {
+                "value": "um y- well you you know you 're talking to part of them that 's paying for that"
+              }
+            }, 
+            {
+              "name": {
+                "value": "that 's pretty good you know"
+              }
+            }, 
+            {
+              "name": {
+                "value": "i say they uh"
+              }
+            }, 
+            {
+              "name": {
+                "value": "we have social security numbers"
+              }
+            }, 
+            {
+              "name": {
+                "value": "i looked conser and all that stuff"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and i guess also what the system will absorb"
+              }
+            }, 
+            {
+              "name": {
+                "value": "um it depends"
+              }
+            }, 
+            {
+              "name": {
+                "value": "oh that 's nice"
+              }
+            }, 
+            {
+              "name": {
+                "value": "come on"
+              }
+            }, 
+            {
+              "name": {
+                "value": "uh i know some"
+              }
+            }, 
+            {
+              "name": {
+                "value": "it seemed like it did"
+              }
+            }, 
+            {
+              "name": {
+                "value": "th- there definitely has to be a motivation factor"
+              }
+            }, 
+            {
+              "name": {
+                "value": "i guess we can start uh"
+              }
+            }, 
+            {
+              "name": {
+                "value": "something"
+              }
+            }, 
+            {
+              "name": {
+                "value": "that 's interesting"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and everybody there you know are all software engineers"
+              }
+            }, 
+            {
+              "name": {
+                "value": "mumblex so well i guess we 're talking about the experiment"
+              }
+            }, 
+            {
+              "name": {
+                "value": "uh i 'm kind of undecided on that whether the judge should have the sole"
+              }
+            }, 
+            {
+              "name": {
+                "value": "i guess i k- i think it 's got some relevance"
+              }
+            }, 
+            {
+              "name": {
+                "value": "does n't the jury decide on the death penalty rather than than the judge"
+              }
+            }, 
+            {
+              "name": {
+                "value": "some laws absolutely prohibit it"
+              }
+            }, 
+            {
+              "name": {
+                "value": "uh cincinnati actually"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and then i was not chosen"
+              }
+            }, 
+            {
+              "name": {
+                "value": "because w when i went to work for them uh they did n't do that"
+              }
+            }, 
+            {
+              "name": {
+                "value": "i mean i 've"
+              }
+            }, 
+            {
+              "name": {
+                "value": "this newest model"
+              }
+            }, 
+            {
+              "name": {
+                "value": "i do"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and they do have bins set up"
+              }
+            }, 
+            {
+              "name": {
+                "value": "it was nice talking to you"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and then you you 're either challenged which is"
+              }
+            }, 
+            {
+              "name": {
+                "value": "i you know i have a lot of mixed feelings about on the one hand it 's like if you know"
+              }
+            }, 
+            {
+              "name": {
+                "value": "the taurus is safe"
+              }
+            }, 
+            {
+              "name": {
+                "value": "she 's not involved in that that case"
+              }
+            }, 
+            {
+              "name": {
+                "value": "i 'm twenty-eight"
+              }
+            }, 
+            {
+              "name": {
+                "value": "i 'm ambivalent about the whole thing"
+              }
+            }, 
+            {
+              "name": {
+                "value": "i believe it is"
+              }
+            }, 
+            {
+              "name": {
+                "value": "okay"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and seems to me that that 's i think that 's the way it 's done now"
+              }
+            }, 
+            {
+              "name": {
+                "value": "i mean he could have like a personal prejudice"
+              }
+            }, 
+            {
+              "name": {
+                "value": "year old ninety-two or something like that"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and they used to have to take out all the uh pages and then cut the spine off to be able to recycle them"
+              }
+            }, 
+            {
+              "name": {
+                "value": "of green"
+              }
+            }, 
+            {
+              "name": {
+                "value": "in other words they just prioritize their lives differently"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and the prosecuting attorney presents his evidence"
+              }
+            }, 
+            {
+              "name": {
+                "value": "uh with the telecommunications type of company supposedly you used to be much more stable"
+              }
+            }, 
+            {
+              "name": {
+                "value": "because you and i we have work schedules"
+              }
+            }, 
+            {
+              "name": {
+                "value": "well it depends on which company you work for"
+              }
+            }, 
+            {
+              "name": {
+                "value": "you need one that has a unit that 's locked where they are not able to get out and roam around"
+              }
+            }, 
+            {
+              "name": {
+                "value": "oh that 's a pretty good deal"
+              }
+            }, 
+            {
+              "name": {
+                "value": "you mean not even your your your car insurance"
+              }
+            }, 
+            {
+              "name": {
+                "value": "put it to sleep you know"
+              }
+            }, 
+            {
+              "name": {
+                "value": "that that 's probably an expensive trial uh"
+              }
+            }, 
+            {
+              "name": {
+                "value": "oh i think i think two or three minutes is"
+              }
+            }, 
+            {
+              "name": {
+                "value": "i do n't work though"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and he 's got a attorney that you and i could never afford"
+              }
+            }, 
+            {
+              "name": {
+                "value": "it costs more for the bottles than it did for the cokes"
+              }
+            }, 
+            {
+              "name": {
+                "value": "people just"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and it 's going to create a lot more work for the uh the stores that sell you know sodas and stuff"
+              }
+            }, 
+            {
+              "name": {
+                "value": "i mean they 're they 're totally and morally bankrupt without any ethics whatsoever"
+              }
+            }, 
+            {
+              "name": {
+                "value": "is that what you do"
+              }
+            }, 
+            {
+              "name": {
+                "value": "i guess we 're we 're just at the point uh"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and uh i really liked working on it uh cause it was pretty easy too"
+              }
+            }, 
+            {
+              "name": {
+                "value": "but i i have n't"
+              }
+            }, 
+            {
+              "name": {
+                "value": "side air bags"
+              }
+            }, 
+            {
+              "name": {
+                "value": "so"
+              }
+            }, 
+            {
+              "name": {
+                "value": "it would be nice to have him around"
+              }
+            }, 
+            {
+              "name": {
+                "value": "well that 's more than we have up here in massachusetts"
+              }
+            }, 
+            {
+              "name": {
+                "value": "it 's a really nice car"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and uh one of my kids was in a car accident"
+              }
+            }, 
+            {
+              "name": {
+                "value": "if you put six percent they match up to six percent"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and those three guys take the evidence go off figure it out and then come back and say whether you 're guilty or not"
+              }
+            }, 
+            {
+              "name": {
+                "value": "are you just trying to say that criminal cases are more uh tangible"
+              }
+            }, 
+            {
+              "name": {
+                "value": "it 's just like if you 've got like a dog that 's running wild and biting people"
+              }
+            }, 
+            {
+              "name": {
+                "value": "yo-"
+              }
+            }, 
+            {
+              "name": {
+                "value": "you know put in there too"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and blood screening is part of that"
+              }
+            }, 
+            {
+              "name": {
+                "value": "none of this"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and they go out to"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and she was worrying about going back to work and what she was going to do with him and"
+              }
+            }, 
+            {
+              "name": {
+                "value": "if my parents were to get ill i would like to take care of them at home and if i had the money with some help"
+              }
+            }, 
+            {
+              "name": {
+                "value": "well it 's similar problems"
+              }
+            }, 
+            {
+              "name": {
+                "value": "other than that they do n't have random testing or anything like that"
+              }
+            }, 
+            {
+              "name": {
+                "value": "how about uh let 's see about ten years ago"
+              }
+            }, 
+            {
+              "name": {
+                "value": "well it it got all screwed up because i had a high deductible on the health insurance no fault here"
+              }
+            }, 
+            {
+              "name": {
+                "value": "he still charges you that hundred dollars"
+              }
+            }, 
+            {
+              "name": {
+                "value": "uh there 's too much labor involved i guess to separate the stuff"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and they discontinued them because people were coming and dumping their trash in them"
+              }
+            }, 
+            {
+              "name": {
+                "value": "they they started after we moved down here"
+              }
+            }, 
+            {
+              "name": {
+                "value": "oh i do n't know"
+              }
+            }, 
+            {
+              "name": {
+                "value": "what they do is they have uh three judges basically"
+              }
+            }, 
+            {
+              "name": {
+                "value": "i think that 's that 's what they need to do be more proactive like that"
+              }
+            }, 
+            {
+              "name": {
+                "value": "well a lot of it 's probably to do with the fact that people go to it because they need help"
+              }
+            }, 
+            {
+              "name": {
+                "value": "it depends on the state you live actually"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and tha- they did n't find any problem with that you know"
+              }
+            }, 
+            {
+              "name": {
+                "value": "i see"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and not all of those are necessities"
+              }
+            }, 
+            {
+              "name": {
+                "value": "so i"
+              }
+            }, 
+            {
+              "name": {
+                "value": "i do n't really know"
+              }
+            }, 
+            {
+              "name": {
+                "value": "that 's not always possible"
+              }
+            }, 
+            {
+              "name": {
+                "value": "she 's not ill yet"
+              }
+            }, 
+            {
+              "name": {
+                "value": "uh that 's true"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and what i like about it and i think she likes about it is that she knows everybody there now"
+              }
+            }, 
+            {
+              "name": {
+                "value": "so we are going to be starting a regular payroll deduction"
+              }
+            }, 
+            {
+              "name": {
+                "value": "uh so what do you think uh about putting the elderly in a nursing home"
+              }
+            }, 
+            {
+              "name": {
+                "value": "just get it out you know"
+              }
+            }, 
+            {
+              "name": {
+                "value": "he he repairs it gives it back to you and takes your hundred dollars"
+              }
+            }, 
+            {
+              "name": {
+                "value": "bye"
+              }
+            }, 
+            {
+              "name": {
+                "value": "you ca n't get in there"
+              }
+            }, 
+            {
+              "name": {
+                "value": "any jury 's not going to disregard the evidence you know"
+              }
+            }, 
+            {
+              "name": {
+                "value": "when when he 's not when she ca n't keep control of him"
+              }
+            }, 
+            {
+              "name": {
+                "value": "put them in a nursing home"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and you probably if it were you you probably would n't want someone choosing a place for you to live based on lowest price"
+              }
+            }, 
+            {
+              "name": {
+                "value": "ninety"
+              }
+            }, 
+            {
+              "name": {
+                "value": "which group are you saying is the one trying"
+              }
+            }, 
+            {
+              "name": {
+                "value": "i mean uh uh i would have to look at it"
+              }
+            }, 
+            {
+              "name": {
+                "value": "i i know a lot of people around here sometimes have like mothers or grandmothers"
+              }
+            }, 
+            {
+              "name": {
+                "value": "well let 's see"
+              }
+            }, 
+            {
+              "name": {
+                "value": "i guess"
+              }
+            }, 
+            {
+              "name": {
+                "value": "uh but then it has my name on it"
+              }
+            }, 
+            {
+              "name": {
+                "value": "my wife has"
+              }
+            }, 
+            {
+              "name": {
+                "value": "so you do n't see too many thrown out around the streets"
+              }
+            }, 
+            {
+              "name": {
+                "value": "they target their efforts toward the citizens"
+              }
+            }, 
+            {
+              "name": {
+                "value": "for cans"
+              }
+            }, 
+            {
+              "name": {
+                "value": "uh yet i do n't know wh- whether i would buy saturn or not at this point"
+              }
+            }, 
+            {
+              "name": {
+                "value": "so they 're already ill before they go"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and you know i want a car that i can work on because i think it just costs too much even to get the oil changed anymore"
+              }
+            }, 
+            {
+              "name": {
+                "value": "because i think that"
+              }
+            }, 
+            {
+              "name": {
+                "value": "now"
+              }
+            }, 
+            {
+              "name": {
+                "value": "it 's not worth my time"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and she travels"
+              }
+            }, 
+            {
+              "name": {
+                "value": "i do n't i do n't have any kids"
+              }
+            }, 
+            {
+              "name": {
+                "value": "they kind of match up to you"
+              }
+            }, 
+            {
+              "name": {
+                "value": "for a family"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and i 'm not a certified teacher"
+              }
+            }, 
+            {
+              "name": {
+                "value": "it 's not able to fit in you know"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and uh you know sometimes it can those choi- those choices can be made in advance"
+              }
+            }, 
+            {
+              "name": {
+                "value": "i n- i remember the old days as a kid where bottle was a nickel"
+              }
+            }, 
+            {
+              "name": {
+                "value": "oh really"
+              }
+            }, 
+            {
+              "name": {
+                "value": "you know at the wrong time"
+              }
+            }, 
+            {
+              "name": {
+                "value": "they 've never you know they never go out to the the oil rigs or anything"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and so"
+              }
+            }, 
+            {
+              "name": {
+                "value": "i 'm saying that the uh the group that is just trying to survive from day to day where both parents are working"
+              }
+            }, 
+            {
+              "name": {
+                "value": "uh well that 's interesting"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and the and the the procedure is utterly humiliating"
+              }
+            }, 
+            {
+              "name": {
+                "value": "i do n't know if i 'm making any sense or not"
+              }
+            }, 
+            {
+              "name": {
+                "value": "but i you know but my kids are only elementary grades levels right now"
+              }
+            }, 
+            {
+              "name": {
+                "value": "it 's a lot less stable than it used to be"
+              }
+            }, 
+            {
+              "name": {
+                "value": "the the i 'd say the most important thing is a car that 's not going to fall apart that does n't have problems"
+              }
+            }, 
+            {
+              "name": {
+                "value": "so you see uh"
+              }
+            }, 
+            {
+              "name": {
+                "value": "a uh fellow when he was much younger uh was tried and convicted and sentenced to death"
+              }
+            }, 
+            {
+              "name": {
+                "value": "fortunately in his case the death penalty was revoked"
+              }
+            }, 
+            {
+              "name": {
+                "value": "a guy went to a d- a landfill dug down five feet and and pulled up a phone book from like nineteen sixty"
+              }
+            }, 
+            {
+              "name": {
+                "value": "she 's very independent"
+              }
+            }, 
+            {
+              "name": {
+                "value": "so you 've never had"
+              }
+            }, 
+            {
+              "name": {
+                "value": "uh so uh how do you how do you feel"
+              }
+            }, 
+            {
+              "name": {
+                "value": "yeah"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and and i think that and i know massachusetts has"
+              }
+            }, 
+            {
+              "name": {
+                "value": "selecting you know clean junk as they say"
+              }
+            }, 
+            {
+              "name": {
+                "value": "the judicial system is aimed at the citizens"
+              }
+            }, 
+            {
+              "name": {
+                "value": "so she 's in this nursing home"
+              }
+            }, 
+            {
+              "name": {
+                "value": "um yeah"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and this is out in california where where they do n't make a car that 's got reasonable performance anymore"
+              }
+            }, 
+            {
+              "name": {
+                "value": "it 's got eight thousand people"
+              }
+            }, 
+            {
+              "name": {
+                "value": "well part of the problem with recycling them in the past has been the covers are made with a clay based paper"
+              }
+            }, 
+            {
+              "name": {
+                "value": "really"
+              }
+            }, 
+            {
+              "name": {
+                "value": "possibly though on uh capital cases like maybe the death penalty"
+              }
+            }, 
+            {
+              "name": {
+                "value": "uh and and matter of fact i think it took like three tries t- for it to go through"
+              }
+            }, 
+            {
+              "name": {
+                "value": "we do n't have four o k- one k plan stuff like that"
+              }
+            }, 
+            {
+              "name": {
+                "value": "to have friends"
+              }
+            }, 
+            {
+              "name": {
+                "value": "who know what they 're doing with that"
+              }
+            }, 
+            {
+              "name": {
+                "value": "that uh"
+              }
+            }, 
+            {
+              "name": {
+                "value": "but in civil cases i think a majority rule by by jury would be sufficient"
+              }
+            }, 
+            {
+              "name": {
+                "value": "uh sometimes it is there is no alternative"
+              }
+            }, 
+            {
+              "name": {
+                "value": "i think another thing i 'd look at is safety"
+              }
+            }, 
+            {
+              "name": {
+                "value": "encourage"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and and it 's it was kind of a long story"
+              }
+            }, 
+            {
+              "name": {
+                "value": "so it 's another problem"
+              }
+            }, 
+            {
+              "name": {
+                "value": "goll-"
+              }
+            }, 
+            {
+              "name": {
+                "value": "i think it would be kind of stressful"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and that 's it"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and with medicine being the way it is you 're extending life where sometimes the quality of living has gone down"
+              }
+            }, 
+            {
+              "name": {
+                "value": "a bottle bill was passed"
+              }
+            }, 
+            {
+              "name": {
+                "value": "so it 's not sort of like uh uh"
+              }
+            }, 
+            {
+              "name": {
+                "value": "uh-huh"
+              }
+            }, 
+            {
+              "name": {
+                "value": "well we 're doing it for a church choir"
+              }
+            }, 
+            {
+              "name": {
+                "value": "so that that option sometimes is not available if they do not have the uh either medicare or insurance to cover it"
+              }
+            }, 
+            {
+              "name": {
+                "value": "they used to have job security crap"
+              }
+            }, 
+            {
+              "name": {
+                "value": "or to rehab after uh an illness"
+              }
+            }, 
+            {
+              "name": {
+                "value": "do you"
+              }
+            }, 
+            {
+              "name": {
+                "value": "i mean i have met people that uh both that that just want to maintain a the standard of living and those that that really need the job"
+              }
+            }, 
+            {
+              "name": {
+                "value": "but then there are a lot of people that that do n't have that"
+              }
+            }, 
+            {
+              "name": {
+                "value": "or i think it 's a limit now"
+              }
+            }, 
+            {
+              "name": {
+                "value": "um sounds good"
+              }
+            }, 
+            {
+              "name": {
+                "value": "it 's probably a long time"
+              }
+            }, 
+            {
+              "name": {
+                "value": "they seem to be having a real good response"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and we have n't really put much away for her college up to this point"
+              }
+            }, 
+            {
+              "name": {
+                "value": "because they want to implement a refund on cans and on plastic bottles and everything"
+              }
+            }, 
+            {
+              "name": {
+                "value": "oh definitely it 's"
+              }
+            }, 
+            {
+              "name": {
+                "value": "oh no"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and of course you ca n't just sit around and wait"
+              }
+            }, 
+            {
+              "name": {
+                "value": "but uh back to the issue is uh"
+              }
+            }, 
+            {
+              "name": {
+                "value": "but it 's also not fair because they have their own children to raise"
+              }
+            }, 
+            {
+              "name": {
+                "value": "he fixes it"
+              }
+            }, 
+            {
+              "name": {
+                "value": "uh particularly like where we are you know"
+              }
+            }, 
+            {
+              "name": {
+                "value": "probably more tuned in to that"
+              }
+            }, 
+            {
+              "name": {
+                "value": "many laws but little justice"
+              }
+            }, 
+            {
+              "name": {
+                "value": "oh i 'm sure"
+              }
+            }, 
+            {
+              "name": {
+                "value": "that 's what my grandparents"
+              }
+            }, 
+            {
+              "name": {
+                "value": "uh but i do agree that uh generally it 's society has sort of uh let 's see rushed everything ahead"
+              }
+            }, 
+            {
+              "name": {
+                "value": "a lifelong job security"
+              }
+            }, 
+            {
+              "name": {
+                "value": "instead of throwing out the window they they keep the bottle"
+              }
+            }, 
+            {
+              "name": {
+                "value": "it 's it 's uh no longer"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and uh supposedly they 've got great customer satisfaction from what things i 've heard"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and i 'm an engineer there"
+              }
+            }, 
+            {
+              "name": {
+                "value": "well the families do not necessarily uh know what to do with them"
+              }
+            }, 
+            {
+              "name": {
+                "value": "has nothing to do with justice whatsoever"
+              }
+            }, 
+            {
+              "name": {
+                "value": "i do n't"
+              }
+            }, 
+            {
+              "name": {
+                "value": "but uh you know we have to go through the same thing"
+              }
+            }, 
+            {
+              "name": {
+                "value": "i firmly believe in that"
+              }
+            }, 
+            {
+              "name": {
+                "value": "i uh my sister has a she just had a baby"
+              }
+            }, 
+            {
+              "name": {
+                "value": "matter of fact that that reminded me of an article i saw in the pa-"
+              }
+            }, 
+            {
+              "name": {
+                "value": "she loves it"
+              }
+            }, 
+            {
+              "name": {
+                "value": "uh it seems to me that the judge does it"
+              }
+            }, 
+            {
+              "name": {
+                "value": "but it 's not their exclusive"
+              }
+            }, 
+            {
+              "name": {
+                "value": "it says use of narcotics on company premises"
+              }
+            }, 
+            {
+              "name": {
+                "value": "what what attracts you to the saturns"
+              }
+            }, 
+            {
+              "name": {
+                "value": "they got the death penalty"
+              }
+            }, 
+            {
+              "name": {
+                "value": "i 'm going in for like interviews"
+              }
+            }, 
+            {
+              "name": {
+                "value": "it just depends on what kind they are"
+              }
+            }, 
+            {
+              "name": {
+                "value": "so there is some good to it"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and i i think that drugs"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and you and you do n't always even know if it 's it 's going to be the right place or not"
+              }
+            }, 
+            {
+              "name": {
+                "value": "they do n't add anything"
+              }
+            }, 
+            {
+              "name": {
+                "value": "deductibles are really high"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and then every every year they give you an extra day until you 've got four weeks"
+              }
+            }, 
+            {
+              "name": {
+                "value": "they"
+              }
+            }, 
+            {
+              "name": {
+                "value": "i do n't think you can get dual side air bags"
+              }
+            }, 
+            {
+              "name": {
+                "value": "that 's nice"
+              }
+            }, 
+            {
+              "name": {
+                "value": "well uh could you give me an example of a case where you think that"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and i think uh but i think also sometimes it can be uh a benefit if it 's for a short time"
+              }
+            }, 
+            {
+              "name": {
+                "value": "uh what do you think was different ten years ago from now"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and uh it sounded like it would be an interesting project"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and and now they do n't uh"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and that 's som-"
+              }
+            }, 
+            {
+              "name": {
+                "value": "so uh do you happen to be working for a large firm"
+              }
+            }, 
+            {
+              "name": {
+                "value": "so i guess it starts recording now"
+              }
+            }, 
+            {
+              "name": {
+                "value": "a"
+              }
+            }, 
+            {
+              "name": {
+                "value": "you know"
+              }
+            }, 
+            {
+              "name": {
+                "value": "they they just"
+              }
+            }, 
+            {
+              "name": {
+                "value": "he 's about five months old"
+              }
+            }, 
+            {
+              "name": {
+                "value": "all the people signed confessions"
+              }
+            }, 
+            {
+              "name": {
+                "value": "at times i feel that a unanimous decision is warranted especially in cases in which there 's no smoking gun"
+              }
+            }, 
+            {
+              "name": {
+                "value": "huh"
+              }
+            }, 
+            {
+              "name": {
+                "value": "but uh we 're to the point now where our financial income is enough that we can consider putting some away"
+              }
+            }, 
+            {
+              "name": {
+                "value": "but uh i work for an environmental management firm"
+              }
+            }, 
+            {
+              "name": {
+                "value": "uh reasonable performance"
+              }
+            }, 
+            {
+              "name": {
+                "value": "i think somehow you have to separate the revenues from"
+              }
+            }, 
+            {
+              "name": {
+                "value": "uh especially if if it 's after an acute illness"
+              }
+            }, 
+            {
+              "name": {
+                "value": "i guess the uh city is has bought the big green trash cans"
+              }
+            }, 
+            {
+              "name": {
+                "value": "it it 's"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and if they do catch them they do n't get any monetary gain out of it whereas us we write a check"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and i know that at w where i work"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and i work in the software uh house"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and i 'm not going to throw a bottle away"
+              }
+            }, 
+            {
+              "name": {
+                "value": "so i i kind of gave up on the idea of using quicken at least for now"
+              }
+            }, 
+            {
+              "name": {
+                "value": "i i think i think the uh"
+              }
+            }, 
+            {
+              "name": {
+                "value": "uh well i do n't know"
+              }
+            }, 
+            {
+              "name": {
+                "value": "so they 're trying to"
+              }
+            }, 
+            {
+              "name": {
+                "value": "you know the fam-"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and uh they 've only deliberated four hours or"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and we try to keep it up to date as much as possible"
+              }
+            }, 
+            {
+              "name": {
+                "value": "probably the best things to do is is tie them with a rope and throw them in the water"
+              }
+            }, 
+            {
+              "name": {
+                "value": "that 's excellent"
+              }
+            }, 
+            {
+              "name": {
+                "value": "people would dr have a drink of soda"
+              }
+            }, 
+            {
+              "name": {
+                "value": "mumblex it did n't it it took awhile for that bill to be passed up here as far as recycling bottles and cans"
+              }
+            }, 
+            {
+              "name": {
+                "value": "but they 're really looking for someone who will pretty much fulfill the lawyers ' desires"
+              }
+            }, 
+            {
+              "name": {
+                "value": "i work off and on just temporarily and usually find friends to babysit"
+              }
+            }, 
+            {
+              "name": {
+                "value": "the rec-"
+              }
+            }, 
+            {
+              "name": {
+                "value": "if they sink"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and uh they when they put her in she had all kinds of trouble"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and also so they could find someplace that they enjoyed while they still had choices to make"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and uh actually bec- beforehand they told me they were going to uh do drug screening"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and uh you know colds and things like that get"
+              }
+            }, 
+            {
+              "name": {
+                "value": "of problem"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and uh i do n't know what they do for those people"
+              }
+            }, 
+            {
+              "name": {
+                "value": "what about like as far as uh social changes in the individual"
+              }
+            }, 
+            {
+              "name": {
+                "value": "but i i do know some of these places were doing that"
+              }
+            }, 
+            {
+              "name": {
+                "value": "say"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and it 's a small office that she works in"
+              }
+            }, 
+            {
+              "name": {
+                "value": "we 've been pouring over consumer reports"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and they 'll uh and they 'll send me you know a check for the amount they withheld"
+              }
+            }, 
+            {
+              "name": {
+                "value": "the thing that 's interesting is that i w- i 'm an engineer and a software engineer"
+              }
+            }, 
+            {
+              "name": {
+                "value": "i do n't know what they saw in me"
+              }
+            }, 
+            {
+              "name": {
+                "value": "i 've heard some about saturns"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and then he examines you"
+              }
+            }, 
+            {
+              "name": {
+                "value": "but i 'm pretty sure you 're correct on capital cases uh"
+              }
+            }, 
+            {
+              "name": {
+                "value": "i think that 's also where you 're going to have a lot of people who are going to"
+              }
+            }, 
+            {
+              "name": {
+                "value": "i think"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and what they 've done is they 've bought mercedes after mercedes after mercedes is what they 've done"
+              }
+            }, 
+            {
+              "name": {
+                "value": "oh that 's interesting"
+              }
+            }, 
+            {
+              "name": {
+                "value": "leave the details up to somebody else huh"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and i do n't know"
+              }
+            }, 
+            {
+              "name": {
+                "value": "that"
+              }
+            }, 
+            {
+              "name": {
+                "value": "people want all of that"
+              }
+            }, 
+            {
+              "name": {
+                "value": "well i think that it it varies on on the individual basis"
+              }
+            }, 
+            {
+              "name": {
+                "value": "but i put all the money into it"
+              }
+            }, 
+            {
+              "name": {
+                "value": "i think maybe those people that really do need to work both parents just to survive"
+              }
+            }, 
+            {
+              "name": {
+                "value": "it it can be"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and they only have one set of recycling bins one or two sets as opposed to a set at each of the dumpsters"
+              }
+            }, 
+            {
+              "name": {
+                "value": "so i guess you need to uh know whether it 's a you know a no deposit no return kind of thing whether"
+              }
+            }, 
+            {
+              "name": {
+                "value": "god i do n't know"
+              }
+            }, 
+            {
+              "name": {
+                "value": "i look at it"
+              }
+            }, 
+            {
+              "name": {
+                "value": "sure"
+              }
+            }, 
+            {
+              "name": {
+                "value": "you may not even have family that is uh uh in you know who are around"
+              }
+            }, 
+            {
+              "name": {
+                "value": "of green glass"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and when i look at modern cars and stuff like that i just say i will never do that with the modern cars"
+              }
+            }, 
+            {
+              "name": {
+                "value": "i do n't know whether that 's because they you know sort of give up hope once they get in there or what the the reason is"
+              }
+            }, 
+            {
+              "name": {
+                "value": "have their own room"
+              }
+            }, 
+            {
+              "name": {
+                "value": "who are more active"
+              }
+            }, 
+            {
+              "name": {
+                "value": "the uh governor you know has been trying to decide whether he 's going to commute it or not"
+              }
+            }, 
+            {
+              "name": {
+                "value": "get them with duals"
+              }
+            }, 
+            {
+              "name": {
+                "value": "my uh uh wife 's grandmother had alzheimer 's"
+              }
+            }, 
+            {
+              "name": {
+                "value": "but i think that has a lot to do with economic situation"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and then my youngest two have never been"
+              }
+            }, 
+            {
+              "name": {
+                "value": "you ca n't use this as uh evidence you know because it was either illegally obtained or whatever"
+              }
+            }, 
+            {
+              "name": {
+                "value": "well that 's another problem"
+              }
+            }, 
+            {
+              "name": {
+                "value": "but uh she worked there as a volunteer for about ten years"
+              }
+            }, 
+            {
+              "name": {
+                "value": "there 's no one else that works there"
+              }
+            }, 
+            {
+              "name": {
+                "value": "especially in the kind of engineering job i 'm in you know companies do n't stay afloat that long"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and you know they like to think that they 're getting someone who 's objective in all this"
+              }
+            }, 
+            {
+              "name": {
+                "value": "i mean"
+              }
+            }, 
+            {
+              "name": {
+                "value": "i 'm we 're originally from another state"
+              }
+            }, 
+            {
+              "name": {
+                "value": "so we 're actually"
+              }
+            }, 
+            {
+              "name": {
+                "value": "d disregard that"
+              }
+            }, 
+            {
+              "name": {
+                "value": "he was in the bottle area"
+              }
+            }, 
+            {
+              "name": {
+                "value": "it seems like every year my employer just gives back you know a little bit your tuition reimbursement"
+              }
+            }, 
+            {
+              "name": {
+                "value": "but it was it was just an incredibly humiliating experience what i went through"
+              }
+            }, 
+            {
+              "name": {
+                "value": "uh on the other hand you know i i had a similar had a similar health plan"
+              }
+            }, 
+            {
+              "name": {
+                "value": "they must have pretty good severance though huh"
+              }
+            }, 
+            {
+              "name": {
+                "value": "it 's like hundred bucks a a month or something"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and so they have an extra room and everything for the baby"
+              }
+            }, 
+            {
+              "name": {
+                "value": "so i 'm kind of uh biased in that"
+              }
+            }, 
+            {
+              "name": {
+                "value": "it 's uh correspondence school"
+              }
+            }, 
+            {
+              "name": {
+                "value": "you could"
+              }
+            }, 
+            {
+              "name": {
+                "value": "uh sometimes too it 's used as a dumb job"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and they flew me out to chicago"
+              }
+            }, 
+            {
+              "name": {
+                "value": "how lucky"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and uh it 's a it 's a legal firm office"
+              }
+            }, 
+            {
+              "name": {
+                "value": "is more of the majority than the than the people that have the higher standard of living"
+              }
+            }, 
+            {
+              "name": {
+                "value": "in capital"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and uh they 're not uh too inclined to do something as aggressive as that"
+              }
+            }, 
+            {
+              "name": {
+                "value": "oh that 's too bad"
+              }
+            }, 
+            {
+              "name": {
+                "value": "i think that 's part of it too"
+              }
+            }, 
+            {
+              "name": {
+                "value": "well i guess we 're sticking more to social changes"
+              }
+            }, 
+            {
+              "name": {
+                "value": "uh usually have them come from mumblex you know projects to collect old ones"
+              }
+            }, 
+            {
+              "name": {
+                "value": "fine"
+              }
+            }, 
+            {
+              "name": {
+                "value": "how about you"
+              }
+            }, 
+            {
+              "name": {
+                "value": "he makes you take off all your clothes"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and so she 's the only one really that takes care of the office"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and the other thing we 're looking at is the saturns too"
+              }
+            }, 
+            {
+              "name": {
+                "value": "what about you"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and then you know we kind of want a four door"
+              }
+            }, 
+            {
+              "name": {
+                "value": "what do you think"
+              }
+            }, 
+            {
+              "name": {
+                "value": "we live in the saginaw area"
+              }
+            }, 
+            {
+              "name": {
+                "value": "because you get up"
+              }
+            }, 
+            {
+              "name": {
+                "value": "it 's like washing the dishes before you put them in the dishwasher"
+              }
+            }, 
+            {
+              "name": {
+                "value": "you know the"
+              }
+            }, 
+            {
+              "name": {
+                "value": "it was about a nineteen seventy"
+              }
+            }, 
+            {
+              "name": {
+                "value": "but uh it does n't really seem to be too too tight if we just remember to keep everything up up to date and balanced"
+              }
+            }, 
+            {
+              "name": {
+                "value": "i mean they to reimburse one hundred percent"
+              }
+            }, 
+            {
+              "name": {
+                "value": "pioneers of america"
+              }
+            }, 
+            {
+              "name": {
+                "value": "a lot more interesting trying to uh"
+              }
+            }, 
+            {
+              "name": {
+                "value": "but uh seems like you know"
+              }
+            }, 
+            {
+              "name": {
+                "value": "that uh they think is is surviving which is really more luxuries"
+              }
+            }, 
+            {
+              "name": {
+                "value": "because after i guess after he you know gets to a certain age she 's going to have to take him to a day care"
+              }
+            }, 
+            {
+              "name": {
+                "value": "do"
+              }
+            }, 
+            {
+              "name": {
+                "value": "oh they they put"
+              }
+            }, 
+            {
+              "name": {
+                "value": "those types of things"
+              }
+            }, 
+            {
+              "name": {
+                "value": "they been trying these people now for twenty-two years ever since i was a child"
+              }
+            }, 
+            {
+              "name": {
+                "value": "there 's both sides to it too"
+              }
+            }, 
+            {
+              "name": {
+                "value": "they made me sit and wait for forty-five minutes drink a whole ton of water"
+              }
+            }, 
+            {
+              "name": {
+                "value": "well actually we have n't had to uh until just recently"
+              }
+            }, 
+            {
+              "name": {
+                "value": "in fact they 'll have these little parties"
+              }
+            }, 
+            {
+              "name": {
+                "value": "does it usually make a recording or s-"
+              }
+            }, 
+            {
+              "name": {
+                "value": "so anyway"
+              }
+            }, 
+            {
+              "name": {
+                "value": "but i used to work and when i had two children"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and the money is also another issue how you 're going to pay for it"
+              }
+            }, 
+            {
+              "name": {
+                "value": "there was a story of a woman last year who who actually did slip on the ice and and like sprained her ankle"
+              }
+            }, 
+            {
+              "name": {
+                "value": "where people are n't really you know eco conscious it 's just the fact that it 's something they have to do"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and uh aluminum"
+              }
+            }, 
+            {
+              "name": {
+                "value": "that 's the majority of people that i know of anyways"
+              }
+            }, 
+            {
+              "name": {
+                "value": "well it was nice talking to you"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and then s- you know we just goofed up the medical insurance and the car insurance and stuff and blew it"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and then if you get injured on the job if you like trip and fall or something uh they give you a drug test right away"
+              }
+            }, 
+            {
+              "name": {
+                "value": "i do n't think that"
+              }
+            }, 
+            {
+              "name": {
+                "value": "i do n't know if they have them back there"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and uh i i hope that i have something like that when i get older"
+              }
+            }, 
+            {
+              "name": {
+                "value": "i guess that 's a problem too for people wait lists and all"
+              }
+            }, 
+            {
+              "name": {
+                "value": "people to separate"
+              }
+            }, 
+            {
+              "name": {
+                "value": "but they pretty much go through that"
+              }
+            }, 
+            {
+              "name": {
+                "value": "i know"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and yet we 're getting we 're subjected to this policy you know the same one that uh th- all the engineers have to to"
+              }
+            }, 
+            {
+              "name": {
+                "value": "that 's that 's been so long i 've prac- practically forgot who noriega was you know"
+              }
+            }, 
+            {
+              "name": {
+                "value": "that that would be a good deal to go with"
+              }
+            }, 
+            {
+              "name": {
+                "value": "a dealer return type thing on a ninety-two and ninety-three or something like that you know"
+              }
+            }, 
+            {
+              "name": {
+                "value": "uh you do not have uh uh family available or family that 's uh"
+              }
+            }, 
+            {
+              "name": {
+                "value": "instead of six packs"
+              }
+            }, 
+            {
+              "name": {
+                "value": "i i i think our judicial system is attorney welfare myself"
+              }
+            }, 
+            {
+              "name": {
+                "value": "they 're not aimed at the criminal"
+              }
+            }, 
+            {
+              "name": {
+                "value": "i sat for tw- ten days"
+              }
+            }, 
+            {
+              "name": {
+                "value": "our state does n't yet say that"
+              }
+            }, 
+            {
+              "name": {
+                "value": "because they looked really nice"
+              }
+            }, 
+            {
+              "name": {
+                "value": "the local schools you could send your phone book to your uh to with your kid to school"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and so you know my oldest he was"
+              }
+            }, 
+            {
+              "name": {
+                "value": "people really need two cars and"
+              }
+            }, 
+            {
+              "name": {
+                "value": "but uh to the best of my ability i 'd like to do it until it gets impossible"
+              }
+            }, 
+            {
+              "name": {
+                "value": "what if he cried at the wrong time"
+              }
+            }, 
+            {
+              "name": {
+                "value": "if somebody gets the death penalty they 're they 're judged guilty"
+              }
+            }, 
+            {
+              "name": {
+                "value": "but and they 're expensive"
+              }
+            }, 
+            {
+              "name": {
+                "value": "but i decided that the amount of information that would have to go in would be a lot of time keeping that up to date"
+              }
+            }, 
+            {
+              "name": {
+                "value": "oh well"
+              }
+            }, 
+            {
+              "name": {
+                "value": "so it 's"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and uh it 's in in the very in the mountains"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and uh there 's a big uproar going on right now uh"
+              }
+            }, 
+            {
+              "name": {
+                "value": "they probably have a limit now"
+              }
+            }, 
+            {
+              "name": {
+                "value": "we 've been doing uh down with uh getting rid of extra layers of management"
+              }
+            }, 
+            {
+              "name": {
+                "value": "the only thing i do now is uh put the data into quicken"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and if he gets in there and starts rooting around and finds something in there that 's really tremendously wrong with it then he eats it"
+              }
+            }, 
+            {
+              "name": {
+                "value": "so it 's fairly safe"
+              }
+            }, 
+            {
+              "name": {
+                "value": "it leaves leaves a lot of time out for family and things like that"
+              }
+            }, 
+            {
+              "name": {
+                "value": "if you take your t v in a lot of these t v repair places will say well i 'll repair your t v for a hundred dollars"
+              }
+            }, 
+            {
+              "name": {
+                "value": "yes"
+              }
+            }, 
+            {
+              "name": {
+                "value": "the paper here tonight had a thing about the noriega trial"
+              }
+            }, 
+            {
+              "name": {
+                "value": "killed two teenage boys here in san diego as a matter of fact"
+              }
+            }, 
+            {
+              "name": {
+                "value": "because they do n't they do n't degrade over such a period of time"
+              }
+            }, 
+            {
+              "name": {
+                "value": "in the fall"
+              }
+            }, 
+            {
+              "name": {
+                "value": "that they 're"
+              }
+            }, 
+            {
+              "name": {
+                "value": "uh i guess we will have to factor that in if we are not working for employers that happen to fund that"
+              }
+            }, 
+            {
+              "name": {
+                "value": "wow"
+              }
+            }, 
+            {
+              "name": {
+                "value": "you set down"
+              }
+            }, 
+            {
+              "name": {
+                "value": "yes uh"
+              }
+            }, 
+            {
+              "name": {
+                "value": "well i mean i think"
+              }
+            }, 
+            {
+              "name": {
+                "value": "now how long does it take for your contribution to vest"
+              }
+            }, 
+            {
+              "name": {
+                "value": "uh actually i lived over in europe for a couple of years"
+              }
+            }, 
+            {
+              "name": {
+                "value": "i do n't think so"
+              }
+            }, 
+            {
+              "name": {
+                "value": "uh yeah"
+              }
+            }, 
+            {
+              "name": {
+                "value": "that was my brother 's first job in a grocery store"
+              }
+            }, 
+            {
+              "name": {
+                "value": "i do n't know why"
+              }
+            }, 
+            {
+              "name": {
+                "value": "well how how old are you"
+              }
+            }, 
+            {
+              "name": {
+                "value": "probably"
+              }
+            }, 
+            {
+              "name": {
+                "value": "the uh d- my favorite is the police department"
+              }
+            }, 
+            {
+              "name": {
+                "value": "i i hold it in the utmost contempt"
+              }
+            }, 
+            {
+              "name": {
+                "value": "but i do go on a lot of hazardous waste sites"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and it 's so complicated too"
+              }
+            }, 
+            {
+              "name": {
+                "value": "i 've nailed the problem down"
+              }
+            }, 
+            {
+              "name": {
+                "value": "we"
+              }
+            }, 
+            {
+              "name": {
+                "value": "so a lot of the people who live up front do n't bother to recycle because you know it 's too far to carry the stuff to the other bins"
+              }
+            }, 
+            {
+              "name": {
+                "value": "worried that they 're not going to get enough attention"
+              }
+            }, 
+            {
+              "name": {
+                "value": "some some local communities are very active in that uh in that respect"
+              }
+            }, 
+            {
+              "name": {
+                "value": "it 's just"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and i have many a time called him to come get me you know"
+              }
+            }, 
+            {
+              "name": {
+                "value": "gives her a little bit of her own independence"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and and they"
+              }
+            }, 
+            {
+              "name": {
+                "value": "well i would say as far as social changes go uh i think families were more together"
+              }
+            }, 
+            {
+              "name": {
+                "value": "but they saw it"
+              }
+            }, 
+            {
+              "name": {
+                "value": "or or of course we 've already talked you know"
+              }
+            }, 
+            {
+              "name": {
+                "value": "who 's"
+              }
+            }, 
+            {
+              "name": {
+                "value": "what do you what do you looking for in in those"
+              }
+            }, 
+            {
+              "name": {
+                "value": "that 's something i 've considered uh"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and phone books are a large volume of annual trash"
+              }
+            }, 
+            {
+              "name": {
+                "value": "see if we"
+              }
+            }, 
+            {
+              "name": {
+                "value": "well maybe that 's the purpose of the nursing home is to have them go someplace where they can see that it 's not worth continuing"
+              }
+            }, 
+            {
+              "name": {
+                "value": "so sometimes it 's not an alternative"
+              }
+            }, 
+            {
+              "name": {
+                "value": "they said it was going to be a physical you know"
+              }
+            }, 
+            {
+              "name": {
+                "value": "we have telephones"
+              }
+            }, 
+            {
+              "name": {
+                "value": "paying for that"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and you set it out"
+              }
+            }, 
+            {
+              "name": {
+                "value": "uh let 's see"
+              }
+            }, 
+            {
+              "name": {
+                "value": "you know that 's a"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and it was they come in like uh eight and and eight and ten packs you know"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and then the money that i will be making this summer we 'll be putting away for the college fund"
+              }
+            }, 
+            {
+              "name": {
+                "value": "because you see the reliability and the types of problems they have"
+              }
+            }, 
+            {
+              "name": {
+                "value": "well a little different actually"
+              }
+            }, 
+            {
+              "name": {
+                "value": "but i do n't operate any machinery"
+              }
+            }, 
+            {
+              "name": {
+                "value": "a majority rule i think would be more in line as there is no real smoking gun in the civil cases"
+              }
+            }, 
+            {
+              "name": {
+                "value": "i never have"
+              }
+            }, 
+            {
+              "name": {
+                "value": "but we do have like retirement"
+              }
+            }, 
+            {
+              "name": {
+                "value": "uh a colleague of mine at uh work got some information over uh the computer network called internet"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and"
+              }
+            }, 
+            {
+              "name": {
+                "value": "it 's pretty dangerous out there you know when they fall over"
+              }
+            }, 
+            {
+              "name": {
+                "value": "uh hearing a lo-"
+              }
+            }, 
+            {
+              "name": {
+                "value": "i think that 's an interesting policy your company has about testing immediately after an on the job accident"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and they say they 're hopelessly deadlocked"
+              }
+            }, 
+            {
+              "name": {
+                "value": "so i 'm here all the time"
+              }
+            }, 
+            {
+              "name": {
+                "value": "so you work for bell or something like that"
+              }
+            }, 
+            {
+              "name": {
+                "value": "like for instance say uh"
+              }
+            }, 
+            {
+              "name": {
+                "value": "or people send you there as a last resort"
+              }
+            }, 
+            {
+              "name": {
+                "value": "uh different colors for different things and and things like that"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and with that type person running it i mean you you could expect that you"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and they"
+              }
+            }, 
+            {
+              "name": {
+                "value": "i 've been called"
+              }
+            }, 
+            {
+              "name": {
+                "value": "what is the nature of your company 's business"
+              }
+            }, 
+            {
+              "name": {
+                "value": "well who wants to clean their junk before they throw it away"
+              }
+            }, 
+            {
+              "name": {
+                "value": "it 's comfortable to drive"
+              }
+            }, 
+            {
+              "name": {
+                "value": "oh certainly not"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and you separate your glass and paper"
+              }
+            }, 
+            {
+              "name": {
+                "value": "so it works out pretty good for her"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and they 're not necessarily enjoying life anymore"
+              }
+            }, 
+            {
+              "name": {
+                "value": "so there 's maybe a five year gap between us"
+              }
+            }, 
+            {
+              "name": {
+                "value": "so i 'm like okay"
+              }
+            }, 
+            {
+              "name": {
+                "value": "but i guess there have been several cases where people have been executed by mistake"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and what they 'll do is they 'll recycle it"
+              }
+            }, 
+            {
+              "name": {
+                "value": "i guess we 've got a a daughter who is eighteen months and another one on the way"
+              }
+            }, 
+            {
+              "name": {
+                "value": "so they will put them in a nursing home"
+              }
+            }, 
+            {
+              "name": {
+                "value": "because i know my grandparents wanted to have some independence still"
+              }
+            }, 
+            {
+              "name": {
+                "value": "there 's too many manage too many chiefs and not enough indians"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and then you know now we 're just going on the one income"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and then you have to give a reason to the court why you ca n't serve"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and and when i got in there i did n't i was n't like able to give a full sample"
+              }
+            }, 
+            {
+              "name": {
+                "value": "when he starts toddling around and stuff"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and you know you would n't have this uh uh theatrics where the lawyer jumps up and presents it to the to the jury"
+              }
+            }, 
+            {
+              "name": {
+                "value": "i i d- do n't feel comfortable about leaving my kids in a big day care center but simply because there 's so many kids and so many"
+              }
+            }, 
+            {
+              "name": {
+                "value": "it 's uh"
+              }
+            }, 
+            {
+              "name": {
+                "value": "that 's a good idea"
+              }
+            }, 
+            {
+              "name": {
+                "value": "now people for our company that do operate machinery like drill rigs and things like that"
+              }
+            }, 
+            {
+              "name": {
+                "value": "a matter where priorities are at placed"
+              }
+            }, 
+            {
+              "name": {
+                "value": "i 'm twenty-three"
+              }
+            }, 
+            {
+              "name": {
+                "value": "sometimes you know sometimes the nursing homes are good for uh just short periods of time"
+              }
+            }, 
+            {
+              "name": {
+                "value": "i think what they need to do is they need to somehow take the money out of it"
+              }
+            }, 
+            {
+              "name": {
+                "value": "but that 's the person who 's working on it"
+              }
+            }, 
+            {
+              "name": {
+                "value": "you know you need to check them out ahead of time"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and the other one is are the saturns"
+              }
+            }, 
+            {
+              "name": {
+                "value": "that is pretty good"
+              }
+            }, 
+            {
+              "name": {
+                "value": "huh well i guess what we have is like a f- what they call a flex benefits plan where you you get like a certain amount of dollars"
+              }
+            }, 
+            {
+              "name": {
+                "value": "it 's really it 's really bizarre"
+              }
+            }, 
+            {
+              "name": {
+                "value": "i think she has problems with that too"
+              }
+            }, 
+            {
+              "name": {
+                "value": "that type of thing"
+              }
+            }, 
+            {
+              "name": {
+                "value": "that is how i got it as well"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and you just get so depressed for the u s auto"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and i i do n't know"
+              }
+            }, 
+            {
+              "name": {
+                "value": "we do n't we have n't been doing layoffs"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and you know it 's like you 're i mean employments are contractual by nature anyway"
+              }
+            }, 
+            {
+              "name": {
+                "value": "i 'm uh uh actually uh i was kind of interested if you found out about the study by uh reading telecom digest"
+              }
+            }, 
+            {
+              "name": {
+                "value": "anything i guess could happen"
+              }
+            }, 
+            {
+              "name": {
+                "value": "does it say something"
+              }
+            }, 
+            {
+              "name": {
+                "value": "for a particular thing"
+              }
+            }, 
+            {
+              "name": {
+                "value": "i- if they did it with the uh just the judges the police have to do a lot better job of making sure that their evidence is airtight"
+              }
+            }, 
+            {
+              "name": {
+                "value": "but i live in a a metropolitan area"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and uh she really enjoys it right now because she does n't have to wash dishes or cook"
+              }
+            }, 
+            {
+              "name": {
+                "value": "in the bot- mumblex"
+              }
+            }, 
+            {
+              "name": {
+                "value": "so that 's what"
+              }
+            }, 
+            {
+              "name": {
+                "value": "even though they 're they 're supposed to be impartial"
+              }
+            }, 
+            {
+              "name": {
+                "value": "kind of the way i think about it also is they just"
+              }
+            }, 
+            {
+              "name": {
+                "value": "maybe they could go with a with a nine hundred number and have people dial in and give their uh vote"
+              }
+            }, 
+            {
+              "name": {
+                "value": "i notice the plastic have sort of faded away the milk jugs"
+              }
+            }, 
+            {
+              "name": {
+                "value": "they went to a trial by jury"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and uh uh but y- you know they do n't think twice about serving beer by the keg"
+              }
+            }, 
+            {
+              "name": {
+                "value": "the case was reopened"
+              }
+            }, 
+            {
+              "name": {
+                "value": "i i 'd have to almost go take a class or something like that"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and uh and they were like it was like two dollars and something for the bottles"
+              }
+            }, 
+            {
+              "name": {
+                "value": "telephone"
+              }
+            }, 
+            {
+              "name": {
+                "value": "we have one of those use it or lose it plans too where uh they 'll basically pay for uh you know child care type uh expenses"
+              }
+            }, 
+            {
+              "name": {
+                "value": "that take care of their kids"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and uh we they have a recycling truck that comes around now"
+              }
+            }, 
+            {
+              "name": {
+                "value": "something like that i 've got no problem with it uh"
+              }
+            }, 
+            {
+              "name": {
+                "value": "they do it"
+              }
+            }, 
+            {
+              "name": {
+                "value": "its reasons for immediate dismissal"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and see if it uh"
+              }
+            }, 
+            {
+              "name": {
+                "value": "you either know them or know somebody who knows them to get to"
+              }
+            }, 
+            {
+              "name": {
+                "value": "been looking around and thinking about things"
+              }
+            }, 
+            {
+              "name": {
+                "value": "you look at consumer reports"
+              }
+            }, 
+            {
+              "name": {
+                "value": "or was there another"
+              }
+            }, 
+            {
+              "name": {
+                "value": "it 's like fifteen hundred dollars"
+              }
+            }, 
+            {
+              "name": {
+                "value": "it has become a necessity"
+              }
+            }, 
+            {
+              "name": {
+                "value": "saturns you ca n't go to a dealer unless you go to a a saturn dealer"
+              }
+            }, 
+            {
+              "name": {
+                "value": "i mean do you think"
+              }
+            }, 
+            {
+              "name": {
+                "value": "i think to begin with you would h you would have"
+              }
+            }, 
+            {
+              "name": {
+                "value": "like here in atlanta area our crime rate is just astronomical"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and and uh before i went into any of the interviews uh they took me to the doctor to give me a physical"
+              }
+            }, 
+            {
+              "name": {
+                "value": "i think to really correct the judicial system you have to get the lawyers out of it"
+              }
+            }, 
+            {
+              "name": {
+                "value": "i was kind of wondering if they would be collecting people with uh the western accents or something like that"
+              }
+            }, 
+            {
+              "name": {
+                "value": "i li i like cars that are designed with with human beings in mind"
+              }
+            }, 
+            {
+              "name": {
+                "value": "i do n't know really know that much about the recycling in this area that we 're in"
+              }
+            }, 
+            {
+              "name": {
+                "value": "actually i teach my kids at home"
+              }
+            }, 
+            {
+              "name": {
+                "value": "they 're innocent right"
+              }
+            }, 
+            {
+              "name": {
+                "value": "then you only go there as a last resort"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and also too i think i 'm i 'm tempering this and the fact that the consequences are much more uh serious in a criminal case"
+              }
+            }, 
+            {
+              "name": {
+                "value": "so but uh"
+              }
+            }, 
+            {
+              "name": {
+                "value": "now if he comes in and says you know i 'll repair your your v c r or somebody else 's v c r for a hundred dollars gets in there"
+              }
+            }, 
+            {
+              "name": {
+                "value": "uh no"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and that 's the big thing i think that th they try to promote"
+              }
+            }, 
+            {
+              "name": {
+                "value": "i do n't know if you are familiar with that"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and it depends on how how sick the person is too what you 're capable of like if you have a family to take care of you know of your own"
+              }
+            }, 
+            {
+              "name": {
+                "value": "oh yeah"
+              }
+            }, 
+            {
+              "name": {
+                "value": "the place i work at 's health insurance is kind of expensive"
+              }
+            }, 
+            {
+              "name": {
+                "value": "i-"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and she really liked the idea of of moving there"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and they kind of liked me"
+              }
+            }, 
+            {
+              "name": {
+                "value": "uh although i 'm not a mother i i still think that uh a lot has changed since ten years ago"
+              }
+            }, 
+            {
+              "name": {
+                "value": "well that 's pretty good if you can do that"
+              }
+            }, 
+            {
+              "name": {
+                "value": "i think other than health insurance i think uh you know an extra week of uh time off would be nice"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and people notice it as far as uh highways being uh you know"
+              }
+            }, 
+            {
+              "name": {
+                "value": "my wife worked until we had a family"
+              }
+            }, 
+            {
+              "name": {
+                "value": "in"
+              }
+            }, 
+            {
+              "name": {
+                "value": "that 's a long time"
+              }
+            }, 
+            {
+              "name": {
+                "value": "but the thing is that it 's twenty thousand dollars"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and then the rest is whatever you want to put in if you put more than that or something like that"
+              }
+            }, 
+            {
+              "name": {
+                "value": "well"
+              }
+            }, 
+            {
+              "name": {
+                "value": "so they would n't be stuck going into just whatever nursing home was available at the time"
+              }
+            }, 
+            {
+              "name": {
+                "value": "ninety-twos had dual air bags"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and people will just get"
+              }
+            }, 
+            {
+              "name": {
+                "value": "sent back mumblex mail"
+              }
+            }, 
+            {
+              "name": {
+                "value": "i think that that 's in my opinion the case"
+              }
+            }, 
+            {
+              "name": {
+                "value": "in our case it 's like when you hire on they 'll test you"
+              }
+            }, 
+            {
+              "name": {
+                "value": "it 's a it 's a fairly large community"
+              }
+            }, 
+            {
+              "name": {
+                "value": "so that 's pretty general"
+              }
+            }, 
+            {
+              "name": {
+                "value": "the"
+              }
+            }, 
+            {
+              "name": {
+                "value": "so a lot of our clients are oil companies big oil companies"
+              }
+            }, 
+            {
+              "name": {
+                "value": "they do n't like to keep them"
+              }
+            }, 
+            {
+              "name": {
+                "value": "we that 's been an a an issue uh in our company even though we do n't have the random or even regular drug screening"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and and i had a high deductible on the on the uh on the c- car insurance"
+              }
+            }, 
+            {
+              "name": {
+                "value": "so that was their thinking"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and i 'm not real familiar with uh anything that"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and that uh usually as far as families are concerned there used to be just one person working and usually the other parent was home"
+              }
+            }, 
+            {
+              "name": {
+                "value": "oh okay"
+              }
+            }, 
+            {
+              "name": {
+                "value": "you get an extra week"
+              }
+            }, 
+            {
+              "name": {
+                "value": "if if you can take care of yourself at all or have someone that can take care of you then you stay where you are"
+              }
+            }, 
+            {
+              "name": {
+                "value": "something i picked up in a psychology class some time ago"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and you need a special nursing home for that"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and then you spend it on a cafeteria of whatever you want or need"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and you 're talking to the other half that 's paying for it"
+              }
+            }, 
+            {
+              "name": {
+                "value": "they do test for drugs in that capacity"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and the judge told them"
+              }
+            }, 
+            {
+              "name": {
+                "value": "because too often the acute hospitals will are sending them out much faster than what they 're"
+              }
+            }, 
+            {
+              "name": {
+                "value": "it 's uh it saves a third off on taxes or something"
+              }
+            }, 
+            {
+              "name": {
+                "value": "ou- ou- our judicial system is in such total chaos"
+              }
+            }, 
+            {
+              "name": {
+                "value": "they wanted some place they can go and have their meals and a nurse on staff just in case they needed her"
+              }
+            }, 
+            {
+              "name": {
+                "value": "i 've known quite a few people that have uh gone to retirement communities"
+              }
+            }, 
+            {
+              "name": {
+                "value": "until they get over that hump"
+              }
+            }, 
+            {
+              "name": {
+                "value": "uh person who 's going in and the family that 's going to be uh effec effected by it"
+              }
+            }, 
+            {
+              "name": {
+                "value": "or excuse me the ninety-twos"
+              }
+            }, 
+            {
+              "name": {
+                "value": "then there th- is is that other group that is"
+              }
+            }, 
+            {
+              "name": {
+                "value": "well what other long range goals do you have besides college"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and uh i do n't know"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and and the two cars that apparently are close to that that actually have high reliability the taurus is one of the highest u s cars"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and he just forwarded that on to me"
+              }
+            }, 
+            {
+              "name": {
+                "value": "almost unlikely at this point"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and a lot of people are against it"
+              }
+            }, 
+            {
+              "name": {
+                "value": "i i"
+              }
+            }, 
+            {
+              "name": {
+                "value": "well it 's about three hundred and fifty people"
+              }
+            }, 
+            {
+              "name": {
+                "value": "i and i do the work on most of the work on that myself"
+              }
+            }, 
+            {
+              "name": {
+                "value": "we needed to start doing more of that just for uh you know saving for college and things like that"
+              }
+            }, 
+            {
+              "name": {
+                "value": "hold it down a little longer"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and it amounted to uh going in uh before any of these interviews"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and they could n't could n't deal with her"
+              }
+            }, 
+            {
+              "name": {
+                "value": "uh they ate dinner at the table together"
+              }
+            }, 
+            {
+              "name": {
+                "value": "she sort of went you know bananas"
+              }
+            }, 
+            {
+              "name": {
+                "value": "actually that 's kind of the type of car that i i 'm thinking about we might get"
+              }
+            }, 
+            {
+              "name": {
+                "value": "it 's out in the country"
+              }
+            }, 
+            {
+              "name": {
+                "value": "fact as far as i know the school does n't have any kind of programs or anything out here and uh or the grocery store or anything"
+              }
+            }, 
+            {
+              "name": {
+                "value": "makers when you do that"
+              }
+            }, 
+            {
+              "name": {
+                "value": "well my uh grandmother 's not really in a nursing home but a retirement home that also has a nursing home sort of attached to it"
+              }
+            }, 
+            {
+              "name": {
+                "value": "uh i would personally like it"
+              }
+            }, 
+            {
+              "name": {
+                "value": "the the things they asked to talk about were whether the uh whether the judge should be the one that does the uh sentencing"
+              }
+            }, 
+            {
+              "name": {
+                "value": "he had a boss who uh moved into a larger office"
+              }
+            }, 
+            {
+              "name": {
+                "value": "unanimous"
+              }
+            }, 
+            {
+              "name": {
+                "value": "people outlive their savings"
+              }
+            }, 
+            {
+              "name": {
+                "value": "i 've not"
+              }
+            }, 
+            {
+              "name": {
+                "value": "the other thing they asked about was whether uh uh the verdict should be required to be unanimous"
+              }
+            }, 
+            {
+              "name": {
+                "value": "but there too there are also cases in which i feel a majority rule might be acceptable particularly i think in civil cases"
+              }
+            }, 
+            {
+              "name": {
+                "value": "how would you go about changing it"
+              }
+            }, 
+            {
+              "name": {
+                "value": "how many is on sitting on a jury"
+              }
+            }, 
+            {
+              "name": {
+                "value": "i mean it is kind of fair"
+              }
+            }, 
+            {
+              "name": {
+                "value": "saginaw"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and i say boy you know"
+              }
+            }, 
+            {
+              "name": {
+                "value": "but i my grandparents were looking into it before"
+              }
+            }, 
+            {
+              "name": {
+                "value": "to get references and that"
+              }
+            }, 
+            {
+              "name": {
+                "value": "but my experience has been that most people that move into nursing homes die very quickly"
+              }
+            }, 
+            {
+              "name": {
+                "value": "oh are you"
+              }
+            }, 
+            {
+              "name": {
+                "value": "but a lot of people were really upset with the policy at first"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and they tend to view the younger fellows as more likely to hand down a guilty verdict"
+              }
+            }, 
+            {
+              "name": {
+                "value": "both sides do"
+              }
+            }, 
+            {
+              "name": {
+                "value": "but uh people need to be more conscious of it"
+              }
+            }, 
+            {
+              "name": {
+                "value": "i never thought of that"
+              }
+            }, 
+            {
+              "name": {
+                "value": "so i do n't know"
+              }
+            }, 
+            {
+              "name": {
+                "value": "it 's not as easy"
+              }
+            }, 
+            {
+              "name": {
+                "value": "well i 'm trying to think"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and cause like if your spouse died mumblex all alone it 'd be nice to go someplace with people similar to you"
+              }
+            }, 
+            {
+              "name": {
+                "value": "the choices because of the nature of the illness when they 're"
+              }
+            }, 
+            {
+              "name": {
+                "value": "i do n't know how many people are uh getting involved in this"
+              }
+            }, 
+            {
+              "name": {
+                "value": "work now"
+              }
+            }, 
+            {
+              "name": {
+                "value": "not the criminals"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and it it works real neat"
+              }
+            }, 
+            {
+              "name": {
+                "value": "i have n't"
+              }
+            }, 
+            {
+              "name": {
+                "value": "uh i just"
+              }
+            }, 
+            {
+              "name": {
+                "value": "iowa and other cities like that it 's a nickel per aluminum can"
+              }
+            }, 
+            {
+              "name": {
+                "value": "this this offshoot of g m"
+              }
+            }, 
+            {
+              "name": {
+                "value": "well i do n't remember"
+              }
+            }, 
+            {
+              "name": {
+                "value": "so where do you think they target their efforts"
+              }
+            }, 
+            {
+              "name": {
+                "value": "i think in like uh lesser cases it 's like ten out of twelve or five out of six whatever"
+              }
+            }, 
+            {
+              "name": {
+                "value": "longer than a week"
+              }
+            }, 
+            {
+              "name": {
+                "value": "i think it 's still based on the old model of"
+              }
+            }, 
+            {
+              "name": {
+                "value": "but she still has uh a security there"
+              }
+            }, 
+            {
+              "name": {
+                "value": "did they did they like on bottles did they give you a so many cents back for"
+              }
+            }, 
+            {
+              "name": {
+                "value": "i guess that 's not large compared to some"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and uh we do have health insurance"
+              }
+            }, 
+            {
+              "name": {
+                "value": "they contain the glue and stuff"
+              }
+            }, 
+            {
+              "name": {
+                "value": "because they 're at a higher risk of exposure"
+              }
+            }, 
+            {
+              "name": {
+                "value": "it will be interesting to see what"
+              }
+            }, 
+            {
+              "name": {
+                "value": "at home"
+              }
+            }, 
+            {
+              "name": {
+                "value": "well do you think that that in a civil case if there was majority rule that it would be easy for someone to be set up"
+              }
+            }, 
+            {
+              "name": {
+                "value": "uh as rental cars"
+              }
+            }, 
+            {
+              "name": {
+                "value": "now i know that like minyard 's"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and the nursing home made them come and take her back because she was being a a you know a a nuisance or worse than a nuisance"
+              }
+            }, 
+            {
+              "name": {
+                "value": "uh what do you"
+              }
+            }, 
+            {
+              "name": {
+                "value": "unfortunately some elderly have to go to or have i guess it 's alzheimer 's or where"
+              }
+            }, 
+            {
+              "name": {
+                "value": "we tried a way try to put away two and four thousand a year just for that"
+              }
+            }, 
+            {
+              "name": {
+                "value": "we 'd like to get like a"
+              }
+            }, 
+            {
+              "name": {
+                "value": "one of them was for a couple of years"
+              }
+            }, 
+            {
+              "name": {
+                "value": "it was just so that the rest of the relatives would have peace of mind knowing that if anything happened there was somebody there for them"
+              }
+            }, 
+            {
+              "name": {
+                "value": "well like what"
+              }
+            }, 
+            {
+              "name": {
+                "value": "they they did more things together"
+              }
+            }, 
+            {
+              "name": {
+                "value": "uh i work for a fairly large company"
+              }
+            }, 
+            {
+              "name": {
+                "value": "so it really helps with that"
+              }
+            }, 
+            {
+              "name": {
+                "value": "that 's probably a large factor"
+              }
+            }, 
+            {
+              "name": {
+                "value": "but maybe uh"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and i wish they did"
+              }
+            }, 
+            {
+              "name": {
+                "value": "that sounds good"
+              }
+            }, 
+            {
+              "name": {
+                "value": "i 've driven some uh tauruses over the last couple of years when i 've been on business trips"
+              }
+            }, 
+            {
+              "name": {
+                "value": "you ca n't do anything"
+              }
+            }, 
+            {
+              "name": {
+                "value": "but uh i had an experience when i was interviewing for a job that where i had to uh uh do a drug test"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and places like that around like arlington and fort worth and a lot of those grocery stores they have like four different bins out front"
+              }
+            }, 
+            {
+              "name": {
+                "value": "we 're not being tested for drugs at all uh"
+              }
+            }, 
+            {
+              "name": {
+                "value": "what kind of experience do you do you have then with child care"
+              }
+            }, 
+            {
+              "name": {
+                "value": "well have you ever served on a jury"
+              }
+            }, 
+            {
+              "name": {
+                "value": "so they have n't been to public schools at all"
+              }
+            }, 
+            {
+              "name": {
+                "value": "before i went to any of the interviews and go in there again"
+              }
+            }, 
+            {
+              "name": {
+                "value": "uh at least"
+              }
+            }, 
+            {
+              "name": {
+                "value": "uh live in an apartment complex"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and in germany they do n't have the jury system"
+              }
+            }, 
+            {
+              "name": {
+                "value": "a house in the suburbs or"
+              }
+            }, 
+            {
+              "name": {
+                "value": "th- here they 're trying to push through a bill"
+              }
+            }, 
+            {
+              "name": {
+                "value": "for college"
+              }
+            }, 
+            {
+              "name": {
+                "value": "well how you handle that the long range or medium range planning on finances"
+              }
+            }, 
+            {
+              "name": {
+                "value": "oh"
+              }
+            }, 
+            {
+              "name": {
+                "value": "of whatever it is they 're dealing with"
+              }
+            }, 
+            {
+              "name": {
+                "value": "if they 're equipped to handle the kind of patients you 're going to have"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and that there 's one juror that is is uh different than the other eleven"
+              }
+            }, 
+            {
+              "name": {
+                "value": "but now they do n't"
+              }
+            }, 
+            {
+              "name": {
+                "value": "so so i- i- it 's incentives like that that get people people more conscious of it"
+              }
+            }, 
+            {
+              "name": {
+                "value": "or even bottles"
+              }
+            }, 
+            {
+              "name": {
+                "value": "aye"
+              }
+            }, 
+            {
+              "name": {
+                "value": "but i think nursing homes can be good"
+              }
+            }, 
+            {
+              "name": {
+                "value": "some of it"
+              }
+            }, 
+            {
+              "name": {
+                "value": "fact they 're going to execute somebody at the end of this month"
+              }
+            }, 
+            {
+              "name": {
+                "value": "or"
+              }
+            }, 
+            {
+              "name": {
+                "value": "but she does"
+              }
+            }, 
+            {
+              "name": {
+                "value": "those are"
+              }
+            }, 
+            {
+              "name": {
+                "value": "but it might not"
+              }
+            }, 
+            {
+              "name": {
+                "value": "or do you think that we 're we 're uh all trying to keep up with a certain standard of living"
+              }
+            }, 
+            {
+              "name": {
+                "value": "you know they have a four o one k"
+              }
+            }, 
+            {
+              "name": {
+                "value": "more than it 's worth"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and we have had a bottle bill for quite a few years now"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and then it comes in to doing all the arithmetic"
+              }
+            }, 
+            {
+              "name": {
+                "value": "criminals have none of these things"
+              }
+            }, 
+            {
+              "name": {
+                "value": "some support"
+              }
+            }, 
+            {
+              "name": {
+                "value": "well you know it 's it 's one of those things"
+              }
+            }, 
+            {
+              "name": {
+                "value": "i have three"
+              }
+            }, 
+            {
+              "name": {
+                "value": "the city brought ought you know set tr- separate trash cans"
+              }
+            }, 
+            {
+              "name": {
+                "value": "i 'm sure it 's not till like twenty-five years thirty years"
+              }
+            }, 
+            {
+              "name": {
+                "value": "but i think the average length of time that somebody lives in a nursing home is only like six months or something"
+              }
+            }, 
+            {
+              "name": {
+                "value": "right"
+              }
+            }, 
+            {
+              "name": {
+                "value": "i can send in a uh can send in a request for payment"
+              }
+            }, 
+            {
+              "name": {
+                "value": "well maybe not"
+              }
+            }, 
+            {
+              "name": {
+                "value": "so maybe that 's one thing they can do"
+              }
+            }, 
+            {
+              "name": {
+                "value": "they they really do n't"
+              }
+            }, 
+            {
+              "name": {
+                "value": "but uh we just have the one check book"
+              }
+            }, 
+            {
+              "name": {
+                "value": "to participate in"
+              }
+            }, 
+            {
+              "name": {
+                "value": "we can be called at work"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and then the judge says oh no"
+              }
+            }, 
+            {
+              "name": {
+                "value": "i"
+              }
+            }, 
+            {
+              "name": {
+                "value": "uh probably need to try to get back on the topic"
+              }
+            }, 
+            {
+              "name": {
+                "value": "i think now they 're a lot more expensive than that"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and they do n't want to take the responsibility"
+              }
+            }, 
+            {
+              "name": {
+                "value": "they should have one year and one appeal cover all their bases with one appeal"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and it 's just one lawyer"
+              }
+            }, 
+            {
+              "name": {
+                "value": "because the judges sitting in that kind of stuff day after day they know all the procedures"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and you"
+              }
+            }, 
+            {
+              "name": {
+                "value": "oh i think that"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and i know in the state we were from that they did that t- similar type thing"
+              }
+            }, 
+            {
+              "name": {
+                "value": "but uh uh i was just curious what uh part of the country"
+              }
+            }, 
+            {
+              "name": {
+                "value": "oh so they do n't go to school"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and i i think that 's probably all right in that they you know maybe know what the the norm is"
+              }
+            }, 
+            {
+              "name": {
+                "value": "take a long time to find the right place"
+              }
+            }, 
+            {
+              "name": {
+                "value": "i do n't know a lot about them"
+              }
+            }, 
+            {
+              "name": {
+                "value": "yet you go out on the streets"
+              }
+            }, 
+            {
+              "name": {
+                "value": "i only get two weeks"
+              }
+            }, 
+            {
+              "name": {
+                "value": "usually just get dumped out with the trash"
+              }
+            }, 
+            {
+              "name": {
+                "value": "uh the question was kind of interesting to me because i was just trying to put together a uh long term financial plan and monthly budget"
+              }
+            }, 
+            {
+              "name": {
+                "value": "they were all murdered"
+              }
+            }, 
+            {
+              "name": {
+                "value": "that 's true"
+              }
+            }, 
+            {
+              "name": {
+                "value": "but"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and so uh"
+              }
+            }, 
+            {
+              "name": {
+                "value": "you know i do n't know for if you 're familiar with that or not"
+              }
+            }, 
+            {
+              "name": {
+                "value": "so the- it you know someone did start a cost benefit analysis"
+              }
+            }, 
+            {
+              "name": {
+                "value": "that 's right"
+              }
+            }, 
+            {
+              "name": {
+                "value": "well i was i was uh originally chosen primarily i think because i was a young fellow"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and he starts crawling"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and that 's not just the driver and the passenger"
+              }
+            }, 
+            {
+              "name": {
+                "value": "i guess the way i think about it is not it should n't necessarily be thought of as revenge"
+              }
+            }, 
+            {
+              "name": {
+                "value": "but that really do need to work"
+              }
+            }, 
+            {
+              "name": {
+                "value": "but one of the the two things that i 'm really"
+              }
+            }, 
+            {
+              "name": {
+                "value": "certainly not"
+              }
+            }, 
+            {
+              "name": {
+                "value": "it would be hard"
+              }
+            }, 
+            {
+              "name": {
+                "value": "in your case i do n't think that you should necessarily be subjected to drug testing"
+              }
+            }, 
+            {
+              "name": {
+                "value": "whether"
+              }
+            }, 
+            {
+              "name": {
+                "value": "i just i noticed it"
+              }
+            }, 
+            {
+              "name": {
+                "value": "she has a great social life"
+              }
+            }, 
+            {
+              "name": {
+                "value": "i i 'm not really familiar"
+              }
+            }, 
+            {
+              "name": {
+                "value": "at that stage of life you only have so much money left"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and so basically i 'd already peed off in that morning"
+              }
+            }, 
+            {
+              "name": {
+                "value": "twenty-eight"
+              }
+            }, 
+            {
+              "name": {
+                "value": "um"
+              }
+            }, 
+            {
+              "name": {
+                "value": "my place you get two weeks when you start"
+              }
+            }, 
+            {
+              "name": {
+                "value": "we have a a family called all day family"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and she 's able to take her baby to work with her"
+              }
+            }, 
+            {
+              "name": {
+                "value": "uh"
+              }
+            }, 
+            {
+              "name": {
+                "value": "particularly like uh we have a lot of parties and stuff where they serve alcohol"
+              }
+            }, 
+            {
+              "name": {
+                "value": "i 'm not even working for this company"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and sometimes"
+              }
+            }, 
+            {
+              "name": {
+                "value": "but it 's uh it 's quite"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and you separated your stuff"
+              }
+            }, 
+            {
+              "name": {
+                "value": "is it i mean does it"
+              }
+            }, 
+            {
+              "name": {
+                "value": "i started to see at home"
+              }
+            }, 
+            {
+              "name": {
+                "value": "i mean i think you know"
+              }
+            }, 
+            {
+              "name": {
+                "value": "six months so far they said"
+              }
+            }, 
+            {
+              "name": {
+                "value": "you know each attorney can use that as much as they like"
+              }
+            }, 
+            {
+              "name": {
+                "value": "it was always my impression that the justice himself or herself had the final say"
+              }
+            }, 
+            {
+              "name": {
+                "value": "then we have checkbooks"
+              }
+            }, 
+            {
+              "name": {
+                "value": "the green glass"
+              }
+            }, 
+            {
+              "name": {
+                "value": "i lived in germany"
+              }
+            }, 
+            {
+              "name": {
+                "value": "because when you get the most heinous of crimes have you ever noticed you always get the most renowned defense attorney"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and uh she did n't have to do anything anymore"
+              }
+            }, 
+            {
+              "name": {
+                "value": "the retirement home idea 's a nice idea to go and find older people and with similar interests and someplace to stay"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and it 's beautiful"
+              }
+            }, 
+            {
+              "name": {
+                "value": "for me it was financial hardship"
+              }
+            }, 
+            {
+              "name": {
+                "value": "there was a retirement hotel and then a uh"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and you put it in there"
+              }
+            }, 
+            {
+              "name": {
+                "value": "well i mean i think that there are many cases in our judicial system where justice is not served"
+              }
+            }, 
+            {
+              "name": {
+                "value": "uh well i think either my wife or i would like to pursue advanced degrees at some point"
+              }
+            }, 
+            {
+              "name": {
+                "value": "takes him two minutes"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and if not you know do n't do n't let them sit up there on death row for you know fifteen years"
+              }
+            }, 
+            {
+              "name": {
+                "value": "you d-"
+              }
+            }, 
+            {
+              "name": {
+                "value": "i t- i believe that 's the way it is"
+              }
+            }, 
+            {
+              "name": {
+                "value": "no"
+              }
+            }, 
+            {
+              "name": {
+                "value": "not"
+              }
+            }, 
+            {
+              "name": {
+                "value": "uh i 've been real impressed with that"
+              }
+            }, 
+            {
+              "name": {
+                "value": "oh they thought it was too much of a bother"
+              }
+            }, 
+            {
+              "name": {
+                "value": "th- that 's of course being facetious"
+              }
+            }, 
+            {
+              "name": {
+                "value": "it 's just part it 's just something that turns up in the other parameters that they test for"
+              }
+            }, 
+            {
+              "name": {
+                "value": "but i do n't know if they get a get anything back on it"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and then so if she ever does become ill uh it will be like family around her"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and they 're giving speeding tickets"
+              }
+            }, 
+            {
+              "name": {
+                "value": "i think at each wal-mart they had some recycling dumpsters and things like that which now"
+              }
+            }, 
+            {
+              "name": {
+                "value": "do you have to have any special training"
+              }
+            }, 
+            {
+              "name": {
+                "value": "well thank you"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and and they ask you a few questions"
+              }
+            }, 
+            {
+              "name": {
+                "value": "so it it 's just so complicated anymore i think"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and course there 's a lot of different types of day care available too you know where they teach them academic things"
+              }
+            }, 
+            {
+              "name": {
+                "value": "i think uh i wonder if that worked"
+              }
+            }, 
+            {
+              "name": {
+                "value": "it 's kind of like do it do it in the similar vein similar like uh v c r or television repair"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and i did n't realize that they were putting dual uh air bags in that car now"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and uh"
+              }
+            }, 
+            {
+              "name": {
+                "value": "but uh it 's hard to talk about finances without without getting to uh dollar figures i guess"
+              }
+            }, 
+            {
+              "name": {
+                "value": "well uh actually ten years from today seems rather short"
+              }
+            }, 
+            {
+              "name": {
+                "value": "but i do think"
+              }
+            }, 
+            {
+              "name": {
+                "value": "but does your sister live in a big community"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and it 's but it 's uh it 's a little different i guess than than a lot of drug policies"
+              }
+            }, 
+            {
+              "name": {
+                "value": "but i had to beg off from the duty"
+              }
+            }, 
+            {
+              "name": {
+                "value": "uh i know uh i believe it was last year that they actually collected the old phone books"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and here 's this bum that did n't have a job"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and then there 's also uh sort of a wing for those people that do get sick"
+              }
+            }, 
+            {
+              "name": {
+                "value": "sometimes in a nursing home"
+              }
+            }, 
+            {
+              "name": {
+                "value": "i 'll sit down here and call it"
+              }
+            }, 
+            {
+              "name": {
+                "value": "but i do n't envy anybody who 's in that situation to find day care"
+              }
+            }, 
+            {
+              "name": {
+                "value": "that 's a real nice car i think"
+              }
+            }, 
+            {
+              "name": {
+                "value": "my brother lives where i work"
+              }
+            }, 
+            {
+              "name": {
+                "value": "you 'd have to say that"
+              }
+            }, 
+            {
+              "name": {
+                "value": "but here in california and in ari-"
+              }
+            }, 
+            {
+              "name": {
+                "value": "that 's one of the things that my wife and i have thought about"
+              }
+            }, 
+            {
+              "name": {
+                "value": "but i uh never uh got selected for a jury"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and now now most of them are throwaway"
+              }
+            }, 
+            {
+              "name": {
+                "value": "we do n't get them till till your seventh year of service till"
+              }
+            }, 
+            {
+              "name": {
+                "value": "and i think the bottles were like i know they were at least ten cents apiece"
+              }
+            }, 
+            {
+              "name": {
+                "value": "uh i guess"
+              }
+            }, 
+            {
+              "name": {
+                "value": "uh as it stands there 's there 's many ways and means by which a person can be set up both uh in a civil uh civil and criminal case"
+              }
+            }, 
+            {
+              "name": {
+                "value": "uh it 's hard to say because i think people were busy ten twenty years ago too"
+              }
+            }, 
+            {
+              "name": {
+                "value": "actually my my wife and i are actually thinking contemplating buying a new car in the next year and a half or so"
+              }
+            }
+          ], 
+          "name": "TEXT"
+        }
+      ]
+    }
+  }
+}
