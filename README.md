@@ -5,6 +5,8 @@ Course Webpage: [EE596 Spring 2019-- Conversational Artificial Intelligence](htt
 
 ## Task 1: Set up an local DynamoDB sever 
 - Follow the instruction [here](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/DynamoDBLocal.DownloadingAndRunning.html) to set up a local DynamoDB server.
+DynamoBD is a basically a scalable database which can be used for storing either conversation history or content.
+For Lab 1, only the conversation history is stored in DynamoDB.
 
 
 ## Task 2: Set up an Echobot server
@@ -21,11 +23,25 @@ $ pip install -r requirements.txt
 ```
 
 * Launch the Echobot server.
+First, adds two files `~/.aws/config`
+```
+[default]
+region=us-west-2
+```
+and `~/.aws/credentials'
+```
+[default]
+aws_secret_access_key = fakeSecretAccessKey
+aws_access_key_id = fakeMyKeyId
+
+```
+
 ```
 $ source virtenv/bin/activate
 $ cd src
 $ python echobot_server.py
 ```
+
 
 * Talk to the Echobot through the console. Enter "stop" to end the conversation.
 ```
@@ -41,6 +57,10 @@ Alternative, you can create a new folder `src/bots/alicebot` for the Alicebot an
 launch the server.
 
 Please install [Python-AIML](https://github.com/paulovn/python-aiml) and read the documents for creating an Aliebot.
+Specifically, make sure you take a look at
+```python-aiml/aiml/script/bot.py```
+and see whether you can talk with Alicebot interatively use that file.
+
 For this lab, please bootstrap the AIML kernel using a brain file.
 
 Here are a few rounds of interactions with the Alicebot through the console.

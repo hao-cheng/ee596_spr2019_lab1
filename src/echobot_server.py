@@ -24,7 +24,7 @@ def main():
     )
     cmdline_parser.add_argument(
         '--dynamodb_endpoint',
-        default='http://localhost:8001',
+        default='http://localhost:8000',
         help='dynamodDB endpoint'
     )
     cmdline_parser.add_argument(
