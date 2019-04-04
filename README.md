@@ -28,7 +28,7 @@ First, adds two files `~/.aws/config`
 [default]
 region=us-west-2
 ```
-and `~/.aws/credentials'
+and `~/.aws/credentials`
 ```
 [default]
 aws_secret_access_key = fakeSecretAccessKey
