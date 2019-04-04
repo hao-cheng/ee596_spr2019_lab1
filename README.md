@@ -98,7 +98,7 @@ In this way, you enable voice-based interactions for the Alicebot.
 ```
 $ ngrok http 8080
 ```
-- Create an Amazon developer account [here](https://developer.amazon.com/) and follow the [walkthrough](https://hao-cheng.github.io/slides/lab_1-walkthrough.pdf).
+- Create an Amazon developer account [here](https://developer.amazon.com/) and follow the [walkthrough](https://hao-cheng.github.io/ee596_spr2019/slides/lab_1-walkthrough.pdf).
 
 ## Lab Checkoff
 * Chat with the Alicebot using both the Console and the Echo dot.
