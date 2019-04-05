@@ -28,6 +28,7 @@ class AlexaPrizeBotBuilder(BotBuilderBase):
 
     __slots__ = (
         '_bot',
+        '_skill',
         '_skill_builder'
     )
 
