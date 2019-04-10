@@ -2,6 +2,12 @@
 
 Course Webpage: [EE596 Spring 2019-- Conversational Artificial Intelligence](https://hao-cheng.github.io/ee596_spr2019/)
 
+In this lab, you're going to have a general overview of the front-end, middle-end and back-end of a conversational AI system.
+For Task 1, you're going to set up your local back-end database.
+For Task 2, you're going to set up the middle-end which is the core part responsible for language understanding, dialog management and language generation.
+Also, you could use a text-based front-end to talk with the bot server which would only echo back your inputs.
+For Task 3, you're going to replace the echobot with Alicebot.
+For Task 4, you're going to set up the voice-based front-end through the Amazon Alexa skill.
 
 ## Task 1: Set up an local DynamoDB sever 
 - Follow the instruction [here](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/DynamoDBLocal.DownloadingAndRunning.html) to set up a local DynamoDB server.
@@ -22,8 +28,7 @@ $ source virtenv/bin/activate
 $ pip install -r requirements.txt
 ```
 
-* Launch the Echobot server.
-First, adds two files `~/.aws/config`
+* First, adds two files `~/.aws/config`
 ```
 [default]
 region=us-west-2
@@ -36,12 +41,12 @@ aws_access_key_id = fakeMyKeyId
 
 ```
 
+* Launch the Echobot server.
 ```
 $ source virtenv/bin/activate
 $ cd src
 $ python echobot_server.py
 ```
-
 
 * Talk to the Echobot through the console. Enter "stop" to end the conversation.
 ```
@@ -49,6 +54,7 @@ $ source virtenv/bin/activate
 $ cd clients
 $ python console_client.py --logdir $LOGDIR
 ```
+Notice the echobot simply echoes back whatever you input.
 
 ## Task 3: Replace the Echobot with an Alicebot.
 In this task, you need to use Alicebot for generating bot responses.
@@ -56,12 +62,14 @@ You can directly edit the file `src/bots/echobot/bot.py`.
 Alternative, you can create a new folder `src/bots/alicebot` for the Alicebot and create a new `src/alicebot_server.py` file to
 launch the server.
 
-Please install [Python-AIML](https://github.com/paulovn/python-aiml) and read the documents for creating an Aliebot.
+Please install [Python-AIML](https://github.com/paulovn/python-aiml) and read the documents for creating an Alicebot.
 Specifically, make sure you take a look at
 ```python-aiml/aiml/script/bot.py```
-and see whether you can talk with Alicebot interatively use that file.
+and see whether you can talk with Alicebot interactively use that file.
 
-For this lab, please bootstrap the AIML kernel using a brain file.
+For this lab, please try to bootstrap the AIML kernel using a brain file (This
+is a binarized file which can be read quickly from the disk). In other words, you
+could dump the bootstrapped conversations in binary file.
 
 Here are a few rounds of interactions with the Alicebot through the console.
 If you want, you can also replace the `Bot Reprompt`.
