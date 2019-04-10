@@ -11,7 +11,7 @@ For Task 4, you're going to set up the voice-based front-end through the Amazon 
 
 ## Task 1: Set up an local DynamoDB sever 
 - Follow the instruction [here](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/DynamoDBLocal.DownloadingAndRunning.html) to set up a local DynamoDB server.
-DynamoBD is a basically a scalable database which can be used for storing either conversation history or content.
+DynamoBD is basically a scalable database which can be used for storing either conversation history or content.
 For Lab 1, only the conversation history is stored in DynamoDB.
 
 
